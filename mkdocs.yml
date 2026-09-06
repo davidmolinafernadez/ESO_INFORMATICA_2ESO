@@ -44,6 +44,8 @@ extra_css:
   - stylesheets/extra.css
 nav:
   - Inicio: index.md
+  - Temporalización: temporalizacion.md
+  - Entregas en Aules: aules.md
   - UD1 · Mi entorno digital:
       - Presentación: ud1/index.md
       - 1 · Archivos y carpetas: ud1/01-archivos-carpetas.md
@@ -53,3 +55,9 @@ nav:
       - Actividades puntuables: ud1/actividades.md
       - Proyecto final: ud1/proyecto-final.md
       - Evaluación: ud1/evaluacion.md
+  - UD2 · Conozco mi ordenador: ud2/index.md
+  - UD3 · Redes y seguridad: ud3/index.md
+  - UD4 · Documentos y datos: ud4/index.md
+  - UD5 · Creación multimedia: ud5/index.md
+  - UD6 · Programación y web: ud6/index.md
+  - Proyecto final del curso: proyecto-final/index.md
