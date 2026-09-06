@@ -44,6 +44,9 @@ Aplica al menos dos mejoras y entrégala con el nombre:
 
 El proyecto representa el **40 % de la unidad**.
 
+## Entrega mediante Aules
+
+El proyecto se entregará en la tarea `UD1 · Proyecto final · Guía de supervivencia digital`. En Aules se indicará el formato, la fecha y si se debe subir un archivo o proporcionar un enlace. Antes de pulsar **Enviar**, revisa la lista de evaluación.
+
 !!! warning "Privacidad y autoría"
     No incluyas datos personales reales. Utiliza imágenes propias o con licencia adecuada e identifica su procedencia.
-
