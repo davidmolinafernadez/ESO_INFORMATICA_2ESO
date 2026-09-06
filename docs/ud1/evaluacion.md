@@ -1,5 +1,7 @@
 # Evaluación · UD1
 
+No habrá examen. La calificación procederá únicamente de las actividades y del proyecto entregados en **Aules**.
+
 ## Calificación de la unidad
 
 | Evidencia | Peso |
@@ -34,4 +36,3 @@
 
 !!! success "No hay examen"
     La nota demuestra tu trabajo continuado. Conserva las actividades y las versiones del proyecto: también se valora cómo mejoras.
-
