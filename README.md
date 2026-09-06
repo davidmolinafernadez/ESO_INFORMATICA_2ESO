@@ -2,7 +2,9 @@
 
 Web independiente de materiales para 2.º ESO. Evaluación basada en actividades y proyectos, sin exámenes tradicionales.
 
-Estado actual: UD1 completa con seis actividades puntuables y proyecto final de unidad. El resto de unidades se incorporará progresivamente.
+La estructura anual contiene seis unidades didácticas y un proyecto final de curso, con una temporalización de 66 sesiones. La UD1 está desarrollada con seis actividades puntuables y proyecto final de unidad; el resto se incorporará progresivamente.
+
+La evaluación se basa en actividades y proyectos. Todas las entregas se realizan mediante Aules.
 
 ## Web del alumnado
 
