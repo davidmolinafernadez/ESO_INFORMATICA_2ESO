@@ -7,6 +7,7 @@ Esta es tu aula digital. Aquí encontrarás las explicaciones, actividades y pro
 <div class="hero-actions" markdown>
 [Empezar la UD1](ud1/){ .md-button .md-button--primary }
 [Ver las actividades](ud1/actividades.md){ .md-button }
+[Consultar el calendario](temporalizacion.md){ .md-button }
 </div>
 
 ## Cómo trabajaremos
@@ -24,18 +25,29 @@ Esta es tu aula digital. Aquí encontrarás las explicaciones, actividades y pro
 [:material-folder-star-outline: **UD1 · Mi entorno digital**  
 Archivos, nube, fuentes e identidad digital.](ud1/)
 
-<div class="unit-card">:material-desktop-tower-monitor: **UD2 · Conozco mi ordenador**<br>Próximamente.</div>
+[:material-desktop-tower-monitor: **UD2 · Conozco mi ordenador**  
+Componentes, sistema operativo y mantenimiento.](ud2/)
 
-<div class="unit-card">:material-shield-lock-outline: **UD3 · Redes y seguridad**<br>Próximamente.</div>
+[:material-shield-lock-outline: **UD3 · Redes y seguridad**  
+Conexiones, amenazas y protección.](ud3/)
 
-<div class="unit-card">:material-file-table-outline: **UD4 · Documentos y datos**<br>Próximamente.</div>
+[:material-file-table-outline: **UD4 · Documentos y datos**  
+Documentos claros, hojas de cálculo y gráficos.](ud4/)
 
-<div class="unit-card">:material-movie-open-outline: **UD5 · Creación multimedia**<br>Próximamente.</div>
+[:material-movie-open-outline: **UD5 · Creación multimedia**  
+Imagen, sonido y vídeo para comunicar.](ud5/)
 
-<div class="unit-card">:material-code-tags: **UD6 · Programación y web**<br>Próximamente.</div>
+[:material-code-tags: **UD6 · Programación y web**  
+Algoritmos, programación visual y primera web.](ud6/)
+
+[:material-trophy-outline: **Proyecto final del curso**  
+Una solución digital que reúne lo aprendido.](proyecto-final/)
 
 </div>
 
 !!! tip "Lo importante"
     No se trata de terminar deprisa. Se valora que trabajes con orden, seas capaz de explicar lo que haces y mejores el resultado.
+
+!!! info "Todas las entregas se realizan en Aules"
+    Esta web contiene las explicaciones y las instrucciones. Las fechas, plantillas y entregas estarán siempre en la tarea correspondiente de **Aules**.
 
