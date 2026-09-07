@@ -1,63 +1,62 @@
-site_name: Informática · 2.º ESO
-site_description: Aula digital de Informática para 2.º ESO
+site_name: Projecte Interdisciplinari d’Informàtica · 2.º ESO
 site_url: https://davidmolinafernadez.github.io/ESO_INFORMATICA_2ESO/
 theme:
   name: material
   language: es
-  features:
-    - navigation.tabs
-    - navigation.sections
-    - navigation.top
-    - navigation.footer
-    - search.suggest
-    - search.highlight
-    - content.code.copy
+  features: [navigation.sections, navigation.top, search.suggest, search.highlight, content.code.copy]
   palette:
     - scheme: default
       primary: custom
       accent: custom
-      toggle:
-        icon: material/weather-night
-        name: Modo oscuro
-    - scheme: slate
-      primary: custom
-      accent: custom
-      toggle:
-        icon: material/weather-sunny
-        name: Modo claro
 plugins:
   - search:
       lang: es
-markdown_extensions:
-  - admonition
-  - attr_list
-  - md_in_html
-  - tables
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-extra_css:
-  - stylesheets/extra.css
+markdown_extensions: [admonition, attr_list, md_in_html, tables, pymdownx.details, pymdownx.superfences]
+extra_css: [stylesheets/extra.css]
+extra_javascript: [javascripts/modo-clase.js]
 nav:
   - Inicio: index.md
-  - Temporalización: temporalizacion.md
-  - Entregas en Aules: aules.md
-  - UD1 · Mi entorno digital:
-      - Presentación: ud1/index.md
-      - 1 · Archivos y carpetas: ud1/01-archivos-carpetas.md
-      - 2 · Nube y permisos: ud1/02-nube-permisos.md
-      - 3 · Buscar y comprobar: ud1/03-buscar-comprobar.md
-      - 4 · Ciudadanía digital: ud1/04-ciudadania-digital.md
-      - Actividades puntuables: ud1/actividades.md
-      - Proyecto final: ud1/proyecto-final.md
-      - Evaluación: ud1/evaluacion.md
-  - UD2 · Conozco mi ordenador: ud2/index.md
-  - UD3 · Redes y seguridad: ud3/index.md
-  - UD4 · Documentos y datos: ud4/index.md
-  - UD5 · Creación multimedia: ud5/index.md
-  - UD6 · Programación y web: ud6/index.md
-  - Proyecto final del curso: proyecto-final/index.md
+  - Plan del curso: plan-curso.md
+  - IA responsable: ia-responsable.md
+  - UD01 · Introducción al uso del ordenador:
+      - Portada: ud01/index.md
+      - Aprende: ud01/aprende.md
+      - Actividades: ud01/actividades.md
+      - Proyecto: ud01/proyecto.md
+      - Entrega: ud01/entrega.md
+  - UD02 · Procesador de textos en la nube:
+      - Portada: ud02/index.md
+      - Aprende: ud02/aprende.md
+      - Actividades: ud02/actividades.md
+      - Proyecto: ud02/proyecto.md
+      - Entrega: ud02/entrega.md
+  - UD03 · Hojas de cálculo:
+      - Portada: ud03/index.md
+      - Aprende: ud03/aprende.md
+      - Actividades: ud03/actividades.md
+      - Proyecto: ud03/proyecto.md
+      - Entrega: ud03/entrega.md
+  - UD04 · Presentaciones digitales:
+      - Portada: ud04/index.md
+      - Aprende: ud04/aprende.md
+      - Actividades: ud04/actividades.md
+      - Proyecto: ud04/proyecto.md
+      - Entrega: ud04/entrega.md
+  - UD05 · Fundamentos de inteligencia artificial:
+      - Portada: ud05/index.md
+      - Aprende: ud05/aprende.md
+      - Actividades: ud05/actividades.md
+      - Proyecto: ud05/proyecto.md
+      - Entrega: ud05/entrega.md
+  - UD06 · Aplicaciones y ética de la IA:
+      - Portada: ud06/index.md
+      - Aprende: ud06/aprende.md
+      - Actividades: ud06/actividades.md
+      - Proyecto: ud06/proyecto.md
+      - Entrega: ud06/entrega.md
+  - UD07 · Programación por bloques con Scratch:
+      - Portada: ud07/index.md
+      - Aprende: ud07/aprende.md
+      - Actividades: ud07/actividades.md
+      - Proyecto: ud07/proyecto.md
+      - Entrega: ud07/entrega.md

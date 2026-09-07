@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{const b=document.createElement('button');b.className='class-mode-button';b.textContent='Modo clase';document.body.appendChild(b);b.onclick=()=>{document.body.classList.toggle('class-mode');b.textContent=document.body.classList.contains('class-mode')?'Salir del modo clase':'Modo clase'}});

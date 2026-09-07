@@ -1,53 +1,38 @@
-# Informática · 2.º ESO
+# Projecte Interdisciplinari d’Informàtica · 2.º ESO
 
-<span class="course-badge">2 horas semanales · Evaluación por actividades y proyectos</span>
+<span class="course-badge">2 horas semanales · 66 sesiones orientativas</span>
 
-Esta es tu aula digital. Aquí encontrarás las explicaciones, actividades y proyectos que realizaremos durante el curso. **No habrá exámenes tradicionales**: tu calificación se construirá con el trabajo diario y los productos que seas capaz de crear.
+El curso parte de los acuerdos y programaciones del Departamento de Informática del IES Jaume II «El Just». Antes de cada bloque se recuperan aprendizajes previos según las necesidades reales del grupo.
 
-<div class="hero-actions" markdown>
-[Empezar la UD1](ud1/){ .md-button .md-button--primary }
-[Ver las actividades](ud1/actividades.md){ .md-button }
-[Consultar el calendario](temporalizacion.md){ .md-button }
-</div>
-
-## Cómo trabajaremos
-
-1. Lee o escucha la explicación.
-2. Realiza la actividad breve.
-3. Guarda el archivo con el nombre indicado.
-4. Comprueba la lista antes de entregar.
-5. Mejora tu trabajo después de recibir comentarios.
-
-## Recorrido previsto
+[Descargar la presentación de la asignatura :material-microsoft-powerpoint:](recursos/PRESENTACION_INFORMATICA_2ESO_2026_2027.pptx){ .md-button }
 
 <div class="unit-grid" markdown>
+[:material-book-open-page-variant: **UD01 · Introducción al uso del ordenador**  
+3 semanas · Entorno digital organizado](ud01/index.md)
 
-[:material-folder-star-outline: **UD1 · Mi entorno digital**  
-Archivos, nube, fuentes e identidad digital.](ud1/)
+[:material-book-open-page-variant: **UD02 · Procesador de textos en la nube**  
+5 semanas · Guía escolar accesible](ud02/index.md)
 
-[:material-desktop-tower-monitor: **UD2 · Conozco mi ordenador**  
-Componentes, sistema operativo y mantenimiento.](ud2/)
+[:material-book-open-page-variant: **UD03 · Hojas de cálculo**  
+5 semanas · Presupuesto y panel de datos](ud03/index.md)
 
-[:material-shield-lock-outline: **UD3 · Redes y seguridad**  
-Conexiones, amenazas y protección.](ud3/)
+[:material-book-open-page-variant: **UD04 · Presentaciones digitales**  
+4 semanas · Presentación oral de tres minutos](ud04/index.md)
 
-[:material-file-table-outline: **UD4 · Documentos y datos**  
-Documentos claros, hojas de cálculo y gráficos.](ud4/)
+[:material-book-open-page-variant: **UD05 · Fundamentos de inteligencia artificial**  
+4 semanas · Mapa explicativo de la IA](ud05/index.md)
 
-[:material-movie-open-outline: **UD5 · Creación multimedia**  
-Imagen, sonido y vídeo para comunicar.](ud5/)
+[:material-book-open-page-variant: **UD06 · Aplicaciones y ética de la IA**  
+5 semanas · Guía de uso responsable de IA](ud06/index.md)
 
-[:material-code-tags: **UD6 · Programación y web**  
-Algoritmos, programación visual y primera web.](ud6/)
-
-[:material-trophy-outline: **Proyecto final del curso**  
-Una solución digital que reúne lo aprendido.](proyecto-final/)
-
+[:material-book-open-page-variant: **UD07 · Programación por bloques con Scratch**  
+7 semanas · Videojuego educativo en Scratch](ud07/index.md)
 </div>
 
-!!! tip "Lo importante"
-    No se trata de terminar deprisa. Se valora que trabajes con orden, seas capaz de explicar lo que haces y mejores el resultado.
+## Trabajo transversal
 
-!!! info "Todas las entregas se realizan en Aules"
-    Esta web contiene las explicaciones y las instrucciones. Las fechas, plantillas y entregas estarán siempre en la tarea correspondiente de **Aules**.
+Mecanografía lúdica, herramientas en la nube, carpetas y archivos, búsqueda contrastada, correo gva.edu, identidad digital y uso ético de IA acompañan a todas las unidades.
 
+## Evaluación
+
+Actividades y proyectos entregados en Aules. No hay exámenes tradicionales.
