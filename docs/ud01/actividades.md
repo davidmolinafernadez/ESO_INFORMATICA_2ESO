@@ -1,97 +1,147 @@
 # Actividades · Introducción al uso del ordenador
 
-Cada actividad tiene un **código único**. Ese mismo código aparecerá en la web, en el nombre del archivo y en la tarea de **Aules**.
+Estas instrucciones están preparadas para quienes utilizan la herramienta por primera vez. Lee **un paso cada vez** y márcalo cuando lo termines.
 
-| Código | Actividad | Evidencia principal |
-|---|---|---|
-| 2ESO-UD01-A01 | Reto inicial sobre conocimientos de cursos anteriores | Producto + comprobación |
-| 2ESO-UD01-A02 | Crear y ordenar el árbol de carpetas del curso | Producto + comprobación |
-| 2ESO-UD01-A03 | Redactar y responder un correo académico | Producto + comprobación |
-| 2ESO-UD01-A04 | Comparar dos fuentes sobre identidad digital | Producto + comprobación |
+| Código en Aules | Actividad |
+|---|---|
+| ACT_UN1_1 | Reto inicial sobre conocimientos de cursos anteriores |
+| ACT_UN1_2 | Crear y ordenar el árbol de carpetas del curso |
+| ACT_UN1_3 | Redactar y responder un correo académico |
+| ACT_UN1_4 | Comparar dos fuentes sobre identidad digital |
 
-## 2ESO-UD01-A01 · Reto inicial sobre conocimientos de cursos anteriores
+## ACT_UN1_1 · Reto inicial sobre conocimientos de cursos anteriores
 
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
+### ¿Qué vas a hacer?
 
-**Enunciado:** realiza «reto inicial sobre conocimientos de cursos anteriores» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+Vas a descubrir qué recuerdas antes de empezar.
 
-### Pasos
-
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **2ESO-UD01-A01** en Aules y revisa la lista de entrega.
-
-**Producto:** archivo o enlace llamado `2ESO-UD01-A01-ApellidoNombre-v01`.
-
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
-
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
-
-## 2ESO-UD01-A02 · Crear y ordenar el árbol de carpetas del curso
-
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
-
-**Enunciado:** realiza «crear y ordenar el árbol de carpetas del curso» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+!!! example "Ejemplo sencillo"
+    Puedes rellenar una ficha marcando «sé hacerlo», «necesito ayuda» o «todavía no». No copies el ejemplo: úsalo para entender el resultado.
 
 ### Pasos
 
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **2ESO-UD01-A02** en Aules y revisa la lista de entrega.
+1. Abre la ficha que te entregue el profesor.
+2. Lee una pregunta cada vez.
+3. Responde sin buscar la solución.
+4. Marca si lo has hecho solo o con ayuda.
+5. Revisa que has contestado todas las preguntas.
+6. Guarda el resultado como `ACT_UN1_1_ApellidoNombre_v01`.
+7. Entra en Aules, abre **ACT_UN1_1**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
 
-**Producto:** archivo o enlace llamado `2ESO-UD01-A02-ApellidoNombre-v01`.
+### ¿Qué debes entregar?
 
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
 
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
+### Antes de enviar
 
-## 2ESO-UD01-A03 · Redactar y responder un correo académico
+- [ ] El nombre empieza por `ACT_UN1_1`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
 
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
+## ACT_UN1_2 · Crear y ordenar el árbol de carpetas del curso
 
-**Enunciado:** realiza «redactar y responder un correo académico» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+### ¿Qué vas a hacer?
 
-### Pasos
+Vas a aprender a guardar cada archivo en su lugar.
 
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **2ESO-UD01-A03** en Aules y revisa la lista de entrega.
-
-**Producto:** archivo o enlace llamado `2ESO-UD01-A03-ApellidoNombre-v01`.
-
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
-
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
-
-## 2ESO-UD01-A04 · Comparar dos fuentes sobre identidad digital
-
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
-
-**Enunciado:** realiza «comparar dos fuentes sobre identidad digital» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+!!! example "Ejemplo sencillo"
+    Puedes crear «Informática», dentro «UD1» y después «Actividades», «Recursos» y «Entregas». No copies el ejemplo: úsalo para entender el resultado.
 
 ### Pasos
 
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **2ESO-UD01-A04** en Aules y revisa la lista de entrega.
+1. Abre tu carpeta personal.
+2. Crea una carpeta llamada Informatica.
+3. Dentro crea la carpeta de la unidad.
+4. Crea dentro Actividades, Recursos y Entregas.
+5. Haz una captura donde se vea el árbol completo.
+6. Guarda el resultado como `ACT_UN1_2_ApellidoNombre_v01`.
+7. Entra en Aules, abre **ACT_UN1_2**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
 
-**Producto:** archivo o enlace llamado `2ESO-UD01-A04-ApellidoNombre-v01`.
+### ¿Qué debes entregar?
 
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
 
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
+### Antes de enviar
+
+- [ ] El nombre empieza por `ACT_UN1_2`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
+
+## ACT_UN1_3 · Redactar y responder un correo académico
+
+### ¿Qué vas a hacer?
+
+Vas a escribir un correo claro y respetuoso.
+
+!!! example "Ejemplo sencillo"
+    Puedes enviar una duda con asunto, saludo, pregunta concreta y despedida. No copies el ejemplo: úsalo para entender el resultado.
+
+### Pasos
+
+1. Entra en el correo educativo gva.edu.
+2. Pulsa Redactar.
+3. Escribe el destinatario indicado por el profesor.
+4. Añade un asunto que explique el motivo.
+5. Escribe un saludo, una pregunta concreta y una despedida.
+6. Revisa el texto y envíalo solo cuando el profesor lo indique.
+7. Guarda el resultado como `ACT_UN1_3_ApellidoNombre_v01`.
+8. Entra en Aules, abre **ACT_UN1_3**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
+
+### ¿Qué debes entregar?
+
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
+
+### Antes de enviar
+
+- [ ] El nombre empieza por `ACT_UN1_3`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
+
+## ACT_UN1_4 · Comparar dos fuentes sobre identidad digital
+
+### ¿Qué vas a hacer?
+
+Vas a decidir si una información es fiable.
+
+!!! example "Ejemplo sencillo"
+    Puedes comparar una web institucional con una página sin autor ni fecha. No copies el ejemplo: úsalo para entender el resultado.
+
+### Pasos
+
+1. Copia la pregunta que debes investigar.
+2. Busca una primera fuente y guarda su enlace.
+3. Anota autor u organización y fecha.
+4. Busca una segunda fuente diferente.
+5. Compara qué dicen las dos.
+6. Escribe una conclusión de tres frases con tus palabras.
+7. Guarda el resultado como `ACT_UN1_4_ApellidoNombre_v01`.
+8. Entra en Aules, abre **ACT_UN1_4**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
+
+### ¿Qué debes entregar?
+
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
+
+### Antes de enviar
+
+- [ ] El nombre empieza por `ACT_UN1_4`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
 
 !!! info "Mecanografía"
-    Al inicio de una sesión semanal se reservan entre cinco y diez minutos para práctica de mecanografía en formato de juego. Esta práctica no cambia los códigos de las tareas.
+    Una vez por semana se dedicarán entre cinco y diez minutos a mecanografía en forma de juego. Solo se entrega si el profesor lo indica.

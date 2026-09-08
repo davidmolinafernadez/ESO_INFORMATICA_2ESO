@@ -1,97 +1,149 @@
 # Actividades · Aplicaciones y ética de la IA
 
-Cada actividad tiene un **código único**. Ese mismo código aparecerá en la web, en el nombre del archivo y en la tarea de **Aules**.
+Estas instrucciones están preparadas para quienes utilizan la herramienta por primera vez. Lee **un paso cada vez** y márcalo cuando lo termines.
 
-| Código | Actividad | Evidencia principal |
-|---|---|---|
-| 2ESO-UD06-A01 | Auditar una respuesta con errores y fuentes falsas | Producto + comprobación |
-| 2ESO-UD06-A02 | Analizar un caso de sesgo | Producto + comprobación |
-| 2ESO-UD06-A03 | Redactar una declaración transparente de uso | Producto + comprobación |
-| 2ESO-UD06-A04 | Debate documentado sobre una decisión ética | Producto + comprobación |
+| Código en Aules | Actividad |
+|---|---|
+| ACT_UN6_1 | Auditar una respuesta con errores y fuentes falsas |
+| ACT_UN6_2 | Analizar un caso de sesgo |
+| ACT_UN6_3 | Redactar una declaración transparente de uso |
+| ACT_UN6_4 | Debate documentado sobre una decisión ética |
 
-## 2ESO-UD06-A01 · Auditar una respuesta con errores y fuentes falsas
+## ACT_UN6_1 · Auditar una respuesta con errores y fuentes falsas
 
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
+### ¿Qué vas a hacer?
 
-**Enunciado:** realiza «auditar una respuesta con errores y fuentes falsas» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+Vas a decidir si una información es fiable.
 
-### Pasos
-
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **2ESO-UD06-A01** en Aules y revisa la lista de entrega.
-
-**Producto:** archivo o enlace llamado `2ESO-UD06-A01-ApellidoNombre-v01`.
-
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
-
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
-
-## 2ESO-UD06-A02 · Analizar un caso de sesgo
-
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
-
-**Enunciado:** realiza «analizar un caso de sesgo» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+!!! example "Ejemplo sencillo"
+    Puedes comparar una web institucional con una página sin autor ni fecha. No copies el ejemplo: úsalo para entender el resultado.
 
 ### Pasos
 
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **2ESO-UD06-A02** en Aules y revisa la lista de entrega.
+1. Copia la pregunta que debes investigar.
+2. Busca una primera fuente y guarda su enlace.
+3. Anota autor u organización y fecha.
+4. Busca una segunda fuente diferente.
+5. Compara qué dicen las dos.
+6. Escribe una conclusión de tres frases con tus palabras.
+7. Guarda el resultado como `ACT_UN6_1_ApellidoNombre_v01`.
+8. Entra en Aules, abre **ACT_UN6_1**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
 
-**Producto:** archivo o enlace llamado `2ESO-UD06-A02-ApellidoNombre-v01`.
+### ¿Qué debes entregar?
 
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
 
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
+### Antes de enviar
 
-## 2ESO-UD06-A03 · Redactar una declaración transparente de uso
+- [ ] El nombre empieza por `ACT_UN6_1`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
 
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
+## ACT_UN6_2 · Analizar un caso de sesgo
 
-**Enunciado:** realiza «redactar una declaración transparente de uso» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+### ¿Qué vas a hacer?
 
-### Pasos
+Vas a usar la IA de manera responsable y comprobar sus resultados.
 
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **2ESO-UD06-A03** en Aules y revisa la lista de entrega.
-
-**Producto:** archivo o enlace llamado `2ESO-UD06-A03-ApellidoNombre-v01`.
-
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
-
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
-
-## 2ESO-UD06-A04 · Debate documentado sobre una decisión ética
-
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
-
-**Enunciado:** realiza «debate documentado sobre una decisión ética» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+!!! example "Ejemplo sencillo"
+    Puedes pedir una explicación para alumnado de ESO y verificar una afirmación en una fuente. No copies el ejemplo: úsalo para entender el resultado.
 
 ### Pasos
 
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **2ESO-UD06-A04** en Aules y revisa la lista de entrega.
+1. Lee el caso completo.
+2. Señala qué debe decidir una persona.
+3. Escribe una instrucción con objetivo, contexto y formato.
+4. No introduzcas nombres ni datos personales.
+5. Comprueba una afirmación en una fuente externa.
+6. Anota qué herramienta usaste, qué cambiaste y cómo lo comprobaste.
+7. Guarda el resultado como `ACT_UN6_2_ApellidoNombre_v01`.
+8. Entra en Aules, abre **ACT_UN6_2**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
 
-**Producto:** archivo o enlace llamado `2ESO-UD06-A04-ApellidoNombre-v01`.
+### ¿Qué debes entregar?
 
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
 
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
+### Antes de enviar
+
+- [ ] El nombre empieza por `ACT_UN6_2`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
+
+## ACT_UN6_3 · Redactar una declaración transparente de uso
+
+### ¿Qué vas a hacer?
+
+Vas a usar la IA de manera responsable y comprobar sus resultados.
+
+!!! example "Ejemplo sencillo"
+    Puedes pedir una explicación para alumnado de ESO y verificar una afirmación en una fuente. No copies el ejemplo: úsalo para entender el resultado.
+
+### Pasos
+
+1. Lee el caso completo.
+2. Señala qué debe decidir una persona.
+3. Escribe una instrucción con objetivo, contexto y formato.
+4. No introduzcas nombres ni datos personales.
+5. Comprueba una afirmación en una fuente externa.
+6. Anota qué herramienta usaste, qué cambiaste y cómo lo comprobaste.
+7. Guarda el resultado como `ACT_UN6_3_ApellidoNombre_v01`.
+8. Entra en Aules, abre **ACT_UN6_3**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
+
+### ¿Qué debes entregar?
+
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
+
+### Antes de enviar
+
+- [ ] El nombre empieza por `ACT_UN6_3`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
+
+## ACT_UN6_4 · Debate documentado sobre una decisión ética
+
+### ¿Qué vas a hacer?
+
+Vas a usar la IA de manera responsable y comprobar sus resultados.
+
+!!! example "Ejemplo sencillo"
+    Puedes pedir una explicación para alumnado de ESO y verificar una afirmación en una fuente. No copies el ejemplo: úsalo para entender el resultado.
+
+### Pasos
+
+1. Lee el caso completo.
+2. Señala qué debe decidir una persona.
+3. Escribe una instrucción con objetivo, contexto y formato.
+4. No introduzcas nombres ni datos personales.
+5. Comprueba una afirmación en una fuente externa.
+6. Anota qué herramienta usaste, qué cambiaste y cómo lo comprobaste.
+7. Guarda el resultado como `ACT_UN6_4_ApellidoNombre_v01`.
+8. Entra en Aules, abre **ACT_UN6_4**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
+
+### ¿Qué debes entregar?
+
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
+
+### Antes de enviar
+
+- [ ] El nombre empieza por `ACT_UN6_4`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
 
 !!! info "Mecanografía"
-    Al inicio de una sesión semanal se reservan entre cinco y diez minutos para práctica de mecanografía en formato de juego. Esta práctica no cambia los códigos de las tareas.
+    Una vez por semana se dedicarán entre cinco y diez minutos a mecanografía en forma de juego. Solo se entrega si el profesor lo indica.

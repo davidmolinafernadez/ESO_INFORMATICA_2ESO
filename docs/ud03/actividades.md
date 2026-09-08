@@ -1,97 +1,149 @@
 # Actividades · Hojas de cálculo
 
-Cada actividad tiene un **código único**. Ese mismo código aparecerá en la web, en el nombre del archivo y en la tarea de **Aules**.
+Estas instrucciones están preparadas para quienes utilizan la herramienta por primera vez. Lee **un paso cada vez** y márcalo cuando lo termines.
 
-| Código | Actividad | Evidencia principal |
-|---|---|---|
-| 2ESO-UD03-A01 | Completar una tabla con formatos adecuados | Producto + comprobación |
-| 2ESO-UD03-A02 | Construir fórmulas básicas y comprobarlas | Producto + comprobación |
-| 2ESO-UD03-A03 | Detectar cinco errores en datos ficticios | Producto + comprobación |
-| 2ESO-UD03-A04 | Crear un gráfico y escribir dos conclusiones | Producto + comprobación |
+| Código en Aules | Actividad |
+|---|---|
+| ACT_UN3_1 | Completar una tabla con formatos adecuados |
+| ACT_UN3_2 | Construir fórmulas básicas y comprobarlas |
+| ACT_UN3_3 | Detectar cinco errores en datos ficticios |
+| ACT_UN3_4 | Crear un gráfico y escribir dos conclusiones |
 
-## 2ESO-UD03-A01 · Completar una tabla con formatos adecuados
+## ACT_UN3_1 · Completar una tabla con formatos adecuados
 
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
+### ¿Qué vas a hacer?
 
-**Enunciado:** realiza «completar una tabla con formatos adecuados» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+Vas a practicar una destreza de la unidad.
 
-### Pasos
-
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **2ESO-UD03-A01** en Aules y revisa la lista de entrega.
-
-**Producto:** archivo o enlace llamado `2ESO-UD03-A01-ApellidoNombre-v01`.
-
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
-
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
-
-## 2ESO-UD03-A02 · Construir fórmulas básicas y comprobarlas
-
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
-
-**Enunciado:** realiza «construir fórmulas básicas y comprobarlas» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+!!! example "Ejemplo sencillo"
+    Puedes hacer una versión sencilla de «completar una tabla con formatos adecuados». No copies el ejemplo: úsalo para entender el resultado.
 
 ### Pasos
 
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **2ESO-UD03-A02** en Aules y revisa la lista de entrega.
+1. Abre la herramienta indicada.
+2. Crea un archivo nuevo.
+3. Realiza primero la parte más sencilla.
+4. Continúa paso a paso.
+5. Comprueba dos elementos.
+6. Guarda el resultado.
+7. Guarda el resultado como `ACT_UN3_1_ApellidoNombre_v01`.
+8. Entra en Aules, abre **ACT_UN3_1**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
 
-**Producto:** archivo o enlace llamado `2ESO-UD03-A02-ApellidoNombre-v01`.
+### ¿Qué debes entregar?
 
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
 
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
+### Antes de enviar
 
-## 2ESO-UD03-A03 · Detectar cinco errores en datos ficticios
+- [ ] El nombre empieza por `ACT_UN3_1`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
 
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
+## ACT_UN3_2 · Construir fórmulas básicas y comprobarlas
 
-**Enunciado:** realiza «detectar cinco errores en datos ficticios» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+### ¿Qué vas a hacer?
 
-### Pasos
+Vas a realizar cálculos automáticos y comprobarlos.
 
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **2ESO-UD03-A03** en Aules y revisa la lista de entrega.
-
-**Producto:** archivo o enlace llamado `2ESO-UD03-A03-ApellidoNombre-v01`.
-
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
-
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
-
-## 2ESO-UD03-A04 · Crear un gráfico y escribir dos conclusiones
-
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
-
-**Enunciado:** realiza «crear un gráfico y escribir dos conclusiones» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+!!! example "Ejemplo sencillo"
+    Puedes escribir =B2*C2 y copiar la fórmula hacia abajo. No copies el ejemplo: úsalo para entender el resultado.
 
 ### Pasos
 
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **2ESO-UD03-A04** en Aules y revisa la lista de entrega.
+1. Escribe los encabezados de la tabla.
+2. Introduce los datos sin escribir unidades dentro de las celdas numéricas.
+3. Escribe la primera fórmula comenzando por =.
+4. Copia la fórmula hacia abajo.
+5. Comprueba una fila con una calculadora.
+6. Corrige cualquier resultado diferente.
+7. Guarda el resultado como `ACT_UN3_2_ApellidoNombre_v01`.
+8. Entra en Aules, abre **ACT_UN3_2**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
 
-**Producto:** archivo o enlace llamado `2ESO-UD03-A04-ApellidoNombre-v01`.
+### ¿Qué debes entregar?
 
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
 
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
+### Antes de enviar
+
+- [ ] El nombre empieza por `ACT_UN3_2`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
+
+## ACT_UN3_3 · Detectar cinco errores en datos ficticios
+
+### ¿Qué vas a hacer?
+
+Vas a encontrar fallos antes de entregar.
+
+!!! example "Ejemplo sencillo"
+    Puedes detectar una fecha escrita como texto, un precio sin formato o dos versiones diferentes. No copies el ejemplo: úsalo para entender el resultado.
+
+### Pasos
+
+1. Abre el archivo preparado por el profesor.
+2. Revisa nombres, datos, fórmulas o versiones.
+3. Marca cada error que encuentres.
+4. Escribe por qué es un error.
+5. Corrige una copia, no el original.
+6. Guarda una lista de los cambios.
+7. Guarda el resultado como `ACT_UN3_3_ApellidoNombre_v01`.
+8. Entra en Aules, abre **ACT_UN3_3**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
+
+### ¿Qué debes entregar?
+
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
+
+### Antes de enviar
+
+- [ ] El nombre empieza por `ACT_UN3_3`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
+
+## ACT_UN3_4 · Crear un gráfico y escribir dos conclusiones
+
+### ¿Qué vas a hacer?
+
+Vas a convertir datos en una imagen y explicar qué muestran.
+
+!!! example "Ejemplo sencillo"
+    Puedes usar barras para comparar categorías y escribir una conclusión con un número. No copies el ejemplo: úsalo para entender el resultado.
+
+### Pasos
+
+1. Selecciona la tabla y sus encabezados.
+2. Inserta un gráfico adecuado.
+3. Escribe un título claro.
+4. Comprueba unidades y categorías.
+5. Escribe dos conclusiones que incluyan números.
+6. Revisa que el gráfico representa bien los datos.
+7. Guarda el resultado como `ACT_UN3_4_ApellidoNombre_v01`.
+8. Entra en Aules, abre **ACT_UN3_4**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
+
+### ¿Qué debes entregar?
+
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
+
+### Antes de enviar
+
+- [ ] El nombre empieza por `ACT_UN3_4`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
 
 !!! info "Mecanografía"
-    Al inicio de una sesión semanal se reservan entre cinco y diez minutos para práctica de mecanografía en formato de juego. Esta práctica no cambia los códigos de las tareas.
+    Una vez por semana se dedicarán entre cinco y diez minutos a mecanografía en forma de juego. Solo se entrega si el profesor lo indica.

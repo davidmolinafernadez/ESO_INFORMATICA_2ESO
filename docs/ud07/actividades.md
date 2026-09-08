@@ -1,97 +1,152 @@
 # Actividades · Programación por bloques con Scratch
 
-Cada actividad tiene un **código único**. Ese mismo código aparecerá en la web, en el nombre del archivo y en la tarea de **Aules**.
+Estas instrucciones están preparadas para quienes utilizan la herramienta por primera vez. Lee **un paso cada vez** y márcalo cuando lo termines.
 
-| Código | Actividad | Evidencia principal |
-|---|---|---|
-| 2ESO-UD07-A01 | Animación controlada por eventos | Producto + comprobación |
-| 2ESO-UD07-A02 | Minijuego con puntuación y condición de final | Producto + comprobación |
-| 2ESO-UD07-A03 | Depurar un proyecto con errores preparados | Producto + comprobación |
-| 2ESO-UD07-A04 | Diseñar pantalla inicial, instrucciones y créditos | Producto + comprobación |
+| Código en Aules | Actividad |
+|---|---|
+| ACT_UN7_1 | Animación controlada por eventos |
+| ACT_UN7_2 | Minijuego con puntuación y condición de final |
+| ACT_UN7_3 | Depurar un proyecto con errores preparados |
+| ACT_UN7_4 | Diseñar pantalla inicial, instrucciones y créditos |
 
-## 2ESO-UD07-A01 · Animación controlada por eventos
+## ACT_UN7_1 · Animación controlada por eventos
 
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
+### ¿Qué vas a hacer?
 
-**Enunciado:** realiza «animación controlada por eventos» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+Vas a crear un programa por bloques pequeño y comprobable.
 
-### Pasos
-
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **2ESO-UD07-A01** en Aules y revisa la lista de entrega.
-
-**Producto:** archivo o enlace llamado `2ESO-UD07-A01-ApellidoNombre-v01`.
-
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
-
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
-
-## 2ESO-UD07-A02 · Minijuego con puntuación y condición de final
-
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
-
-**Enunciado:** realiza «minijuego con puntuación y condición de final» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+!!! example "Ejemplo sencillo"
+    Puedes mover un personaje con una tecla y sumar un punto al tocar una estrella. No copies el ejemplo: úsalo para entender el resultado.
 
 ### Pasos
 
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **2ESO-UD07-A02** en Aules y revisa la lista de entrega.
+1. Abre Scratch y crea un proyecto nuevo.
+2. Elige un personaje y un fondo sencillos.
+3. Añade el evento de inicio.
+4. Programa una acción pequeña y pruébala.
+5. Añade la variable o condición solicitada.
+6. Prueba el inicio, la acción principal y el reinicio.
+7. Guarda el enlace o el archivo.
+8. Guarda el resultado como `ACT_UN7_1_ApellidoNombre_v01`.
+9. Entra en Aules, abre **ACT_UN7_1**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
 
-**Producto:** archivo o enlace llamado `2ESO-UD07-A02-ApellidoNombre-v01`.
+### ¿Qué debes entregar?
 
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
 
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
+### Antes de enviar
 
-## 2ESO-UD07-A03 · Depurar un proyecto con errores preparados
+- [ ] El nombre empieza por `ACT_UN7_1`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
 
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
+## ACT_UN7_2 · Minijuego con puntuación y condición de final
 
-**Enunciado:** realiza «depurar un proyecto con errores preparados» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+### ¿Qué vas a hacer?
 
-### Pasos
+Vas a crear un programa por bloques pequeño y comprobable.
 
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **2ESO-UD07-A03** en Aules y revisa la lista de entrega.
-
-**Producto:** archivo o enlace llamado `2ESO-UD07-A03-ApellidoNombre-v01`.
-
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
-
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
-
-## 2ESO-UD07-A04 · Diseñar pantalla inicial, instrucciones y créditos
-
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
-
-**Enunciado:** realiza «diseñar pantalla inicial, instrucciones y créditos» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+!!! example "Ejemplo sencillo"
+    Puedes mover un personaje con una tecla y sumar un punto al tocar una estrella. No copies el ejemplo: úsalo para entender el resultado.
 
 ### Pasos
 
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **2ESO-UD07-A04** en Aules y revisa la lista de entrega.
+1. Abre Scratch y crea un proyecto nuevo.
+2. Elige un personaje y un fondo sencillos.
+3. Añade el evento de inicio.
+4. Programa una acción pequeña y pruébala.
+5. Añade la variable o condición solicitada.
+6. Prueba el inicio, la acción principal y el reinicio.
+7. Guarda el enlace o el archivo.
+8. Guarda el resultado como `ACT_UN7_2_ApellidoNombre_v01`.
+9. Entra en Aules, abre **ACT_UN7_2**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
 
-**Producto:** archivo o enlace llamado `2ESO-UD07-A04-ApellidoNombre-v01`.
+### ¿Qué debes entregar?
 
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
 
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
+### Antes de enviar
+
+- [ ] El nombre empieza por `ACT_UN7_2`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
+
+## ACT_UN7_3 · Depurar un proyecto con errores preparados
+
+### ¿Qué vas a hacer?
+
+Vas a encontrar fallos antes de entregar.
+
+!!! example "Ejemplo sencillo"
+    Puedes detectar una fecha escrita como texto, un precio sin formato o dos versiones diferentes. No copies el ejemplo: úsalo para entender el resultado.
+
+### Pasos
+
+1. Abre el archivo preparado por el profesor.
+2. Revisa nombres, datos, fórmulas o versiones.
+3. Marca cada error que encuentres.
+4. Escribe por qué es un error.
+5. Corrige una copia, no el original.
+6. Guarda una lista de los cambios.
+7. Guarda el resultado como `ACT_UN7_3_ApellidoNombre_v01`.
+8. Entra en Aules, abre **ACT_UN7_3**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
+
+### ¿Qué debes entregar?
+
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
+
+### Antes de enviar
+
+- [ ] El nombre empieza por `ACT_UN7_3`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
+
+## ACT_UN7_4 · Diseñar pantalla inicial, instrucciones y créditos
+
+### ¿Qué vas a hacer?
+
+Vas a crear un programa por bloques pequeño y comprobable.
+
+!!! example "Ejemplo sencillo"
+    Puedes mover un personaje con una tecla y sumar un punto al tocar una estrella. No copies el ejemplo: úsalo para entender el resultado.
+
+### Pasos
+
+1. Abre Scratch y crea un proyecto nuevo.
+2. Elige un personaje y un fondo sencillos.
+3. Añade el evento de inicio.
+4. Programa una acción pequeña y pruébala.
+5. Añade la variable o condición solicitada.
+6. Prueba el inicio, la acción principal y el reinicio.
+7. Guarda el enlace o el archivo.
+8. Guarda el resultado como `ACT_UN7_4_ApellidoNombre_v01`.
+9. Entra en Aules, abre **ACT_UN7_4**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
+
+### ¿Qué debes entregar?
+
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
+
+### Antes de enviar
+
+- [ ] El nombre empieza por `ACT_UN7_4`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
 
 !!! info "Mecanografía"
-    Al inicio de una sesión semanal se reservan entre cinco y diez minutos para práctica de mecanografía en formato de juego. Esta práctica no cambia los códigos de las tareas.
+    Una vez por semana se dedicarán entre cinco y diez minutos a mecanografía en forma de juego. Solo se entrega si el profesor lo indica.

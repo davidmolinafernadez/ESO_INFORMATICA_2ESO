@@ -1,97 +1,148 @@
 # Actividades · Procesador de textos en la nube
 
-Cada actividad tiene un **código único**. Ese mismo código aparecerá en la web, en el nombre del archivo y en la tarea de **Aules**.
+Estas instrucciones están preparadas para quienes utilizan la herramienta por primera vez. Lee **un paso cada vez** y márcalo cuando lo termines.
 
-| Código | Actividad | Evidencia principal |
-|---|---|---|
-| 2ESO-UD02-A01 | Aplicar estilos a un documento desordenado | Producto + comprobación |
-| 2ESO-UD02-A02 | Crear una tabla y una imagen acreditada | Producto + comprobación |
-| 2ESO-UD02-A03 | Revisión por parejas con comentarios | Producto + comprobación |
-| 2ESO-UD02-A04 | Exportar, comprobar y entregar un PDF | Producto + comprobación |
+| Código en Aules | Actividad |
+|---|---|
+| ACT_UN2_1 | Aplicar estilos a un documento desordenado |
+| ACT_UN2_2 | Crear una tabla y una imagen acreditada |
+| ACT_UN2_3 | Revisión por parejas con comentarios |
+| ACT_UN2_4 | Exportar, comprobar y entregar un PDF |
 
-## 2ESO-UD02-A01 · Aplicar estilos a un documento desordenado
+## ACT_UN2_1 · Aplicar estilos a un documento desordenado
 
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
+### ¿Qué vas a hacer?
 
-**Enunciado:** realiza «aplicar estilos a un documento desordenado» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+Vas a ordenar un documento para que sea fácil de leer.
 
-### Pasos
-
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **2ESO-UD02-A01** en Aules y revisa la lista de entrega.
-
-**Producto:** archivo o enlace llamado `2ESO-UD02-A01-ApellidoNombre-v01`.
-
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
-
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
-
-## 2ESO-UD02-A02 · Crear una tabla y una imagen acreditada
-
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
-
-**Enunciado:** realiza «crear una tabla y una imagen acreditada» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+!!! example "Ejemplo sencillo"
+    Puedes aplicar Título al título y Encabezado 1 a los apartados. No copies el ejemplo: úsalo para entender el resultado.
 
 ### Pasos
 
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **2ESO-UD02-A02** en Aules y revisa la lista de entrega.
+1. Abre el documento que te dé el profesor.
+2. Selecciona el título y aplica el estilo Título.
+3. Aplica Encabezado 1 a cada apartado.
+4. Convierte los elementos repetidos en una lista.
+5. Revisa que todos los apartados tienen el mismo aspecto.
+6. Guarda el resultado como `ACT_UN2_1_ApellidoNombre_v01`.
+7. Entra en Aules, abre **ACT_UN2_1**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
 
-**Producto:** archivo o enlace llamado `2ESO-UD02-A02-ApellidoNombre-v01`.
+### ¿Qué debes entregar?
 
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
 
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
+### Antes de enviar
 
-## 2ESO-UD02-A03 · Revisión por parejas con comentarios
+- [ ] El nombre empieza por `ACT_UN2_1`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
 
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
+## ACT_UN2_2 · Crear una tabla y una imagen acreditada
 
-**Enunciado:** realiza «revisión por parejas con comentarios» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+### ¿Qué vas a hacer?
 
-### Pasos
+Vas a utilizar tablas e imágenes de forma clara y legal.
 
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **2ESO-UD02-A03** en Aules y revisa la lista de entrega.
-
-**Producto:** archivo o enlace llamado `2ESO-UD02-A03-ApellidoNombre-v01`.
-
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
-
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
-
-## 2ESO-UD02-A04 · Exportar, comprobar y entregar un PDF
-
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
-
-**Enunciado:** realiza «exportar, comprobar y entregar un pdf» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+!!! example "Ejemplo sencillo"
+    Puedes crear una tabla de dos columnas y escribir «Fuente: autor, web y enlace» bajo la imagen. No copies el ejemplo: úsalo para entender el resultado.
 
 ### Pasos
 
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **2ESO-UD02-A04** en Aules y revisa la lista de entrega.
+1. Crea la tabla con los encabezados indicados.
+2. Completa todas las celdas.
+3. Busca una imagen que se pueda reutilizar.
+4. Inserta la imagen sin deformarla.
+5. Escribe debajo autor, página y enlace.
+6. Comprueba que la imagen ayuda a entender el contenido.
+7. Guarda el resultado como `ACT_UN2_2_ApellidoNombre_v01`.
+8. Entra en Aules, abre **ACT_UN2_2**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
 
-**Producto:** archivo o enlace llamado `2ESO-UD02-A04-ApellidoNombre-v01`.
+### ¿Qué debes entregar?
 
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
 
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
+### Antes de enviar
+
+- [ ] El nombre empieza por `ACT_UN2_2`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
+
+## ACT_UN2_3 · Revisión por parejas con comentarios
+
+### ¿Qué vas a hacer?
+
+Vas a mejorar un trabajo mediante comentarios sencillos.
+
+!!! example "Ejemplo sencillo"
+    Puedes decir qué está bien, qué no se entiende y cómo puede mejorarse. No copies el ejemplo: úsalo para entender el resultado.
+
+### Pasos
+
+1. Comparte el archivo con permiso de comentario.
+2. Lee el trabajo completo de tu compañero.
+3. Añade un comentario sobre algo conseguido.
+4. Añade otro con una mejora concreta.
+5. Lee los comentarios que recibas.
+6. Aplica una mejora y marca el comentario como resuelto.
+7. Guarda el resultado como `ACT_UN2_3_ApellidoNombre_v01`.
+8. Entra en Aules, abre **ACT_UN2_3**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
+
+### ¿Qué debes entregar?
+
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
+
+### Antes de enviar
+
+- [ ] El nombre empieza por `ACT_UN2_3`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
+
+## ACT_UN2_4 · Exportar, comprobar y entregar un PDF
+
+### ¿Qué vas a hacer?
+
+Vas a crear una copia final que se vea igual en cualquier equipo.
+
+!!! example "Ejemplo sencillo"
+    Puedes exportar a PDF y abrirlo para revisar la primera y la última página. No copies el ejemplo: úsalo para entender el resultado.
+
+### Pasos
+
+1. Termina el documento editable.
+2. Pulsa Descargar o Exportar como PDF.
+3. Guárdalo con el nombre indicado.
+4. Abre el PDF.
+5. Revisa títulos, imágenes y última página.
+6. Si falta algo, corrige el original y exporta otra vez.
+7. Guarda el resultado como `ACT_UN2_4_ApellidoNombre_v01`.
+8. Entra en Aules, abre **ACT_UN2_4**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
+
+### ¿Qué debes entregar?
+
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
+
+### Antes de enviar
+
+- [ ] El nombre empieza por `ACT_UN2_4`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
 
 !!! info "Mecanografía"
-    Al inicio de una sesión semanal se reservan entre cinco y diez minutos para práctica de mecanografía en formato de juego. Esta práctica no cambia los códigos de las tareas.
+    Una vez por semana se dedicarán entre cinco y diez minutos a mecanografía en forma de juego. Solo se entrega si el profesor lo indica.

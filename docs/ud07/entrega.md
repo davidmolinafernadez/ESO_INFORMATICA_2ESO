@@ -4,10 +4,10 @@ La unidad se evalúa mediante evidencias prácticas. **No se realizará examen t
 
 | Evidencia | Código en Aules | Peso |
 |---|---|---:|
-| Actividad 1 | 2ESO-UD07-A01 | 15 % |
-| Actividad 2 | 2ESO-UD07-A02 | 15 % |
-| Actividad 3 | 2ESO-UD07-A03 | 15 % |
-| Actividad 4 | 2ESO-UD07-A04 | 15 % |
+| Actividad 1 | ACT_UN7_1 | 15 % |
+| Actividad 2 | ACT_UN7_2 | 15 % |
+| Actividad 3 | ACT_UN7_3 | 15 % |
+| Actividad 4 | ACT_UN7_4 | 15 % |
 | Proyecto de unidad | 2ESO-UD07-P01 | 40 % |
 
 ## Rúbrica común

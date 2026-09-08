@@ -1,97 +1,148 @@
 # Actividades · Fundamentos de inteligencia artificial
 
-Cada actividad tiene un **código único**. Ese mismo código aparecerá en la web, en el nombre del archivo y en la tarea de **Aules**.
+Estas instrucciones están preparadas para quienes utilizan la herramienta por primera vez. Lee **un paso cada vez** y márcalo cuando lo termines.
 
-| Código | Actividad | Evidencia principal |
-|---|---|---|
-| 2ESO-UD05-A01 | Distinguir IA de automatización mediante casos | Producto + comprobación |
-| 2ESO-UD05-A02 | Construir un árbol de decisión sencillo | Producto + comprobación |
-| 2ESO-UD05-A03 | Comparar resultados al mejorar una instrucción | Producto + comprobación |
-| 2ESO-UD05-A04 | Verificar tres afirmaciones generadas por IA | Producto + comprobación |
+| Código en Aules | Actividad |
+|---|---|
+| ACT_UN5_1 | Distinguir IA de automatización mediante casos |
+| ACT_UN5_2 | Construir un árbol de decisión sencillo |
+| ACT_UN5_3 | Comparar resultados al mejorar una instrucción |
+| ACT_UN5_4 | Verificar tres afirmaciones generadas por IA |
 
-## 2ESO-UD05-A01 · Distinguir IA de automatización mediante casos
+## ACT_UN5_1 · Distinguir IA de automatización mediante casos
 
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
+### ¿Qué vas a hacer?
 
-**Enunciado:** realiza «distinguir ia de automatización mediante casos» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+Vas a usar la IA de manera responsable y comprobar sus resultados.
 
-### Pasos
-
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **2ESO-UD05-A01** en Aules y revisa la lista de entrega.
-
-**Producto:** archivo o enlace llamado `2ESO-UD05-A01-ApellidoNombre-v01`.
-
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
-
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
-
-## 2ESO-UD05-A02 · Construir un árbol de decisión sencillo
-
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
-
-**Enunciado:** realiza «construir un árbol de decisión sencillo» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+!!! example "Ejemplo sencillo"
+    Puedes pedir una explicación para alumnado de ESO y verificar una afirmación en una fuente. No copies el ejemplo: úsalo para entender el resultado.
 
 ### Pasos
 
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **2ESO-UD05-A02** en Aules y revisa la lista de entrega.
+1. Lee el caso completo.
+2. Señala qué debe decidir una persona.
+3. Escribe una instrucción con objetivo, contexto y formato.
+4. No introduzcas nombres ni datos personales.
+5. Comprueba una afirmación en una fuente externa.
+6. Anota qué herramienta usaste, qué cambiaste y cómo lo comprobaste.
+7. Guarda el resultado como `ACT_UN5_1_ApellidoNombre_v01`.
+8. Entra en Aules, abre **ACT_UN5_1**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
 
-**Producto:** archivo o enlace llamado `2ESO-UD05-A02-ApellidoNombre-v01`.
+### ¿Qué debes entregar?
 
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
 
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
+### Antes de enviar
 
-## 2ESO-UD05-A03 · Comparar resultados al mejorar una instrucción
+- [ ] El nombre empieza por `ACT_UN5_1`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
 
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
+## ACT_UN5_2 · Construir un árbol de decisión sencillo
 
-**Enunciado:** realiza «comparar resultados al mejorar una instrucción» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+### ¿Qué vas a hacer?
 
-### Pasos
+Vas a aprender a guardar cada archivo en su lugar.
 
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **2ESO-UD05-A03** en Aules y revisa la lista de entrega.
-
-**Producto:** archivo o enlace llamado `2ESO-UD05-A03-ApellidoNombre-v01`.
-
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
-
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
-
-## 2ESO-UD05-A04 · Verificar tres afirmaciones generadas por IA
-
-**Para qué sirve:** aplicar una parte concreta de la unidad y obtener una evidencia que después pueda reutilizarse o mejorarse en el proyecto.
-
-**Enunciado:** realiza «verificar tres afirmaciones generadas por ia» siguiendo los criterios explicados en clase. El resultado debe ser comprensible para otra persona y no contener datos personales.
+!!! example "Ejemplo sencillo"
+    Puedes crear «Informática», dentro «UD1» y después «Actividades», «Recursos» y «Entregas». No copies el ejemplo: úsalo para entender el resultado.
 
 ### Pasos
 
-1. Lee el enunciado completo y prepara la carpeta de trabajo.
-2. Reproduce el ejemplo mínimo mostrado por el profesor.
-3. Crea una versión propia; no te limites a cambiar colores o nombres.
-4. Realiza al menos dos comprobaciones y anota el resultado.
-5. Corrige un aspecto y explica la mejora.
-6. Abre la tarea **2ESO-UD05-A04** en Aules y revisa la lista de entrega.
+1. Abre tu carpeta personal.
+2. Crea una carpeta llamada Informatica.
+3. Dentro crea la carpeta de la unidad.
+4. Crea dentro Actividades, Recursos y Entregas.
+5. Haz una captura donde se vea el árbol completo.
+6. Guarda el resultado como `ACT_UN5_2_ApellidoNombre_v01`.
+7. Entra en Aules, abre **ACT_UN5_2**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
 
-**Producto:** archivo o enlace llamado `2ESO-UD05-A04-ApellidoNombre-v01`.
+### ¿Qué debes entregar?
 
-**Evidencias que se entregan:** producto final, editable cuando se solicite, captura o tabla de comprobaciones y comentario de mejora.
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
 
-**Criterios de éxito:** responde al encargo, aplica el contenido de la unidad, funciona, está cuidado y puede explicarse con palabras propias.
+### Antes de enviar
+
+- [ ] El nombre empieza por `ACT_UN5_2`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
+
+## ACT_UN5_3 · Comparar resultados al mejorar una instrucción
+
+### ¿Qué vas a hacer?
+
+Vas a usar la IA de manera responsable y comprobar sus resultados.
+
+!!! example "Ejemplo sencillo"
+    Puedes pedir una explicación para alumnado de ESO y verificar una afirmación en una fuente. No copies el ejemplo: úsalo para entender el resultado.
+
+### Pasos
+
+1. Lee el caso completo.
+2. Señala qué debe decidir una persona.
+3. Escribe una instrucción con objetivo, contexto y formato.
+4. No introduzcas nombres ni datos personales.
+5. Comprueba una afirmación en una fuente externa.
+6. Anota qué herramienta usaste, qué cambiaste y cómo lo comprobaste.
+7. Guarda el resultado como `ACT_UN5_3_ApellidoNombre_v01`.
+8. Entra en Aules, abre **ACT_UN5_3**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
+
+### ¿Qué debes entregar?
+
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
+
+### Antes de enviar
+
+- [ ] El nombre empieza por `ACT_UN5_3`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
+
+## ACT_UN5_4 · Verificar tres afirmaciones generadas por IA
+
+### ¿Qué vas a hacer?
+
+Vas a usar la IA de manera responsable y comprobar sus resultados.
+
+!!! example "Ejemplo sencillo"
+    Puedes pedir una explicación para alumnado de ESO y verificar una afirmación en una fuente. No copies el ejemplo: úsalo para entender el resultado.
+
+### Pasos
+
+1. Lee el caso completo.
+2. Señala qué debe decidir una persona.
+3. Escribe una instrucción con objetivo, contexto y formato.
+4. No introduzcas nombres ni datos personales.
+5. Comprueba una afirmación en una fuente externa.
+6. Anota qué herramienta usaste, qué cambiaste y cómo lo comprobaste.
+7. Guarda el resultado como `ACT_UN5_4_ApellidoNombre_v01`.
+8. Entra en Aules, abre **ACT_UN5_4**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
+
+### ¿Qué debes entregar?
+
+- El archivo o enlace creado.
+- Una captura o frase que demuestre que lo has comprobado.
+- Si utilizaste IA, indica para qué y cómo revisaste el resultado.
+
+### Antes de enviar
+
+- [ ] El nombre empieza por `ACT_UN5_4`.
+- [ ] El archivo se abre o el enlace funciona.
+- [ ] He realizado todos los pasos.
+- [ ] Puedo explicar lo que he hecho.
+- [ ] No aparecen datos personales.
 
 !!! info "Mecanografía"
-    Al inicio de una sesión semanal se reservan entre cinco y diez minutos para práctica de mecanografía en formato de juego. Esta práctica no cambia los códigos de las tareas.
+    Una vez por semana se dedicarán entre cinco y diez minutos a mecanografía en forma de juego. Solo se entrega si el profesor lo indica.
