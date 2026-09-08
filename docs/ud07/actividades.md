@@ -90,7 +90,7 @@ Vas a encontrar fallos antes de entregar.
 
 ### Pasos
 
-1. Abre el archivo preparado por el profesor.
+1. Abre tu proyecto de ACT_UN7_2 y crea una copia para corregirla sin perder el original.
 2. Revisa nombres, datos, fórmulas o versiones.
 3. Marca cada error que encuentres.
 4. Escribe por qué es un error.

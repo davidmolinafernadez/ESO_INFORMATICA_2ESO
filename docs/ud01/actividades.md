@@ -20,11 +20,12 @@ Vas a descubrir qué recuerdas antes de empezar.
 
 ### Pasos
 
-1. Abre la ficha que te entregue el profesor.
-2. Lee una pregunta cada vez.
-3. Responde sin buscar la solución.
-4. Marca si lo has hecho solo o con ayuda.
-5. Revisa que has contestado todas las preguntas.
+1. Abre un documento nuevo en Writer, Word o Documentos de Google.
+2. Escribe el título `Así utilizo la tecnología`.
+3. Escribe cinco frases: qué dispositivo utilizas, para qué lo utilizas, dónde guardas archivos, qué haces si olvidas una contraseña y cómo compruebas una noticia.
+4. Debajo escribe `Lo he realizado:` y elige **solo**, **con un poco de ayuda** o **con mucha ayuda**.
+5. Pon el título en negrita y revisa la ortografía.
+6. Exporta el documento a PDF.
 6. Guarda el resultado como `ACT_UN1_1_ApellidoNombre_v01`.
 7. Entra en Aules, abre **ACT_UN1_1**, adjunta el archivo o enlace y pulsa **Enviar tarea**.
 

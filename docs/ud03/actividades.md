@@ -88,7 +88,7 @@ Vas a encontrar fallos antes de entregar.
 
 ### Pasos
 
-1. Abre el archivo preparado por el profesor.
+1. Crea una hoja con estos datos: Ana, 12, 15; Bruno, 9, 14; Carla, 16, 11; Diego, 10, 18; Eva, 14, 13.
 2. Revisa nombres, datos, fórmulas o versiones.
 3. Marca cada error que encuentres.
 4. Escribe por qué es un error.
