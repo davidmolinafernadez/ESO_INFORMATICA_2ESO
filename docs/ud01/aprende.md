@@ -122,36 +122,6 @@ Cuando una solución parece funcionar, debemos preguntarnos si funciona también
 
 **Comprobación rápida:** explica el concepto en dos frases, propón un ejemplo diferente y señala una prueba que realizarías.
 
-## Herramientas para realizar las prácticas
-
-En esta asignatura no vamos a instalar Windows. Para trabajar con documentos, hojas de cálculo y presentaciones utilizaremos una de estas dos opciones. El profesor indicará cuál corresponde en cada sesión.
-
-### Opción principal · Microsoft 365 en la web
-
-1. Abre [Microsoft 365](https://www.microsoft365.com/).
-2. Inicia sesión con tu cuenta educativa `gva.edu`; no utilices una cuenta personal.
-3. Elige **Word**, **Excel** o **PowerPoint** según la actividad.
-4. Crea el archivo y ponle desde el principio el nombre indicado en el enunciado.
-5. Comprueba que se ha guardado en OneDrive.
-6. Descarga una copia en el formato solicitado o entrega en Aules el enlace con permiso de lectura.
-7. Cierra la sesión cuando trabajes en un ordenador compartido.
-
-!!! warning "Protege tu cuenta"
-    No compartas la contraseña ni un código de verificación. Antes de entregar un enlace, compruébalo en una ventana privada para saber si el profesor podrá abrirlo.
-
-### Opción alternativa · Máquina virtual OVA
-
-Si el acceso web no está disponible o una práctica necesita las aplicaciones de escritorio, el profesor facilitará una máquina virtual ya preparada.
-
-1. Descarga o copia la OVA desde la ubicación indicada por el profesor.
-2. Abre VirtualBox y elige **Archivo → Importar servicio virtualizado**.
-3. Selecciona la OVA, conserva la configuración indicada y pulsa **Importar**.
-4. Inicia la máquina virtual y abre Word, Excel o PowerPoint.
-5. Guarda durante la práctica una copia de seguridad fuera de la máquina virtual siguiendo las instrucciones del profesor.
-6. Cierra Windows correctamente desde **Inicio → Apagar**.
-
-La OVA es solamente una herramienta para realizar las prácticas. Su importación e instalación no forman parte de la evaluación de esta asignatura.
-
 ## Cierre de la explicación
 
 1. Resume tres ideas esenciales sin consultar la pantalla.
