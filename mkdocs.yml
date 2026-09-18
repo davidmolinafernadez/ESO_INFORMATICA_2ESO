@@ -47,6 +47,7 @@ nav:
       - Portada: ud05/index.md
       - Aprende: ud05/aprende.md
       - Actividades: ud05/actividades.md
+      - Prácticas guiadas: ud05/practicas-guiadas.md
       - Proyecto: ud05/proyecto.md
       - Entrega: ud05/entrega.md
   - UD06 · Aplicaciones y ética de la IA:
@@ -59,5 +60,6 @@ nav:
       - Portada: ud07/index.md
       - Aprende: ud07/aprende.md
       - Actividades: ud07/actividades.md
+      - MakeCode Arcade guiado: ud07/practicas-guiadas.md
       - Proyecto: ud07/proyecto.md
       - Entrega: ud07/entrega.md
