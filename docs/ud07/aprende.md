@@ -13,18 +13,6 @@ Al finalizar la explicación debes poder **definir**, **aplicar**, **comprobar**
 
 Se descompone el problema, se reconocen patrones, se omiten detalles irrelevantes y se diseña un algoritmo. Los casos de prueba se preparan antes de terminar.
 
-### Explicación razonada
-
-No basta con conocer el nombre de la herramienta: hay que comprender qué problema resuelve, qué decisiones toma la persona y cómo se comprueba el resultado. En «pensamiento computacional» distinguiremos siempre **entrada**, **proceso**, **resultado** y **evidencia de comprobación**. Esta secuencia permite detectar errores y justificar el trabajo sin depender de la memoria o de una respuesta automática.
-
-Cuando una solución parece funcionar, debemos preguntarnos si funciona también en casos distintos, si protege la información y si otra persona podría entenderla o continuarla. Por eso guardaremos evidencias, utilizaremos nombres claros y revisaremos antes de entregar.
-
-!!! example "Ejemplo guiado para explicar en clase"
-    El profesor presenta un caso cotidiano relacionado con «Pensamiento computacional». El grupo predice el resultado, observa la demostración y compara la predicción con la evidencia obtenida.
-
-!!! warning "Error frecuente"
-    Confundir que el resultado «parece correcto» con haberlo comprobado. Una comprobación indica qué se esperaba, qué ocurrió y qué se corrigió.
-
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Pensamiento computacional» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -35,18 +23,6 @@ Cuando una solución parece funcionar, debemos preguntarnos si funciona también
 ### Idea clave
 
 Cada objeto tiene disfraces, propiedades y guiones. Los eventos coordinan inicio, teclado, mensajes y colisiones.
-
-### Explicación razonada
-
-No basta con conocer el nombre de la herramienta: hay que comprender qué problema resuelve, qué decisiones toma la persona y cómo se comprueba el resultado. En «escenario, objetos y eventos» distinguiremos siempre **entrada**, **proceso**, **resultado** y **evidencia de comprobación**. Esta secuencia permite detectar errores y justificar el trabajo sin depender de la memoria o de una respuesta automática.
-
-Cuando una solución parece funcionar, debemos preguntarnos si funciona también en casos distintos, si protege la información y si otra persona podría entenderla o continuarla. Por eso guardaremos evidencias, utilizaremos nombres claros y revisaremos antes de entregar.
-
-!!! example "Ejemplo guiado para explicar en clase"
-    Diseñamos un personaje que suma un punto al tocar un objeto. Separamos el inicio, el movimiento y la puntuación en eventos distintos y probamos inicio, colisión, victoria y reinicio.
-
-!!! warning "Error frecuente"
-    Confundir que el resultado «parece correcto» con haberlo comprobado. Una comprobación indica qué se esperaba, qué ocurrió y qué se corrigió.
 
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Escenario, objetos y eventos» y con qué evidencia demostrarías que funciona correctamente?
@@ -59,18 +35,6 @@ Cuando una solución parece funcionar, debemos preguntarnos si funciona también
 
 La secuencia fija el orden y los bucles evitan repetir bloques. Se comprueba qué cambia en cada iteración para impedir comportamientos infinitos.
 
-### Explicación razonada
-
-No basta con conocer el nombre de la herramienta: hay que comprender qué problema resuelve, qué decisiones toma la persona y cómo se comprueba el resultado. En «secuencias y bucles» distinguiremos siempre **entrada**, **proceso**, **resultado** y **evidencia de comprobación**. Esta secuencia permite detectar errores y justificar el trabajo sin depender de la memoria o de una respuesta automática.
-
-Cuando una solución parece funcionar, debemos preguntarnos si funciona también en casos distintos, si protege la información y si otra persona podría entenderla o continuarla. Por eso guardaremos evidencias, utilizaremos nombres claros y revisaremos antes de entregar.
-
-!!! example "Ejemplo guiado para explicar en clase"
-    Pedimos a una IA una explicación sin contexto y repetimos indicando edad, objetivo, límites y formato. Comparamos las respuestas, verificamos una afirmación y registramos qué parte sigue dependiendo de una decisión humana.
-
-!!! warning "Error frecuente"
-    Confundir que el resultado «parece correcto» con haberlo comprobado. Una comprobación indica qué se esperaba, qué ocurrió y qué se corrigió.
-
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Secuencias y bucles» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -81,18 +45,6 @@ Cuando una solución parece funcionar, debemos preguntarnos si funciona también
 ### Idea clave
 
 Las condiciones eligen caminos. Las variables guardan puntuación, tiempo o estado; sus nombres deben expresar su función.
-
-### Explicación razonada
-
-No basta con conocer el nombre de la herramienta: hay que comprender qué problema resuelve, qué decisiones toma la persona y cómo se comprueba el resultado. En «condiciones y variables» distinguiremos siempre **entrada**, **proceso**, **resultado** y **evidencia de comprobación**. Esta secuencia permite detectar errores y justificar el trabajo sin depender de la memoria o de una respuesta automática.
-
-Cuando una solución parece funcionar, debemos preguntarnos si funciona también en casos distintos, si protege la información y si otra persona podría entenderla o continuarla. Por eso guardaremos evidencias, utilizaremos nombres claros y revisaremos antes de entregar.
-
-!!! example "Ejemplo guiado para explicar en clase"
-    Pedimos a una IA una explicación sin contexto y repetimos indicando edad, objetivo, límites y formato. Comparamos las respuestas, verificamos una afirmación y registramos qué parte sigue dependiendo de una decisión humana.
-
-!!! warning "Error frecuente"
-    Confundir que el resultado «parece correcto» con haberlo comprobado. Una comprobación indica qué se esperaba, qué ocurrió y qué se corrigió.
 
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Condiciones y variables» y con qué evidencia demostrarías que funciona correctamente?
@@ -105,18 +57,6 @@ Cuando una solución parece funcionar, debemos preguntarnos si funciona también
 
 Los mensajes reducen dependencias y coordinan objetos. Los clones crean copias durante la ejecución y requieren reglas claras para aparecer y desaparecer.
 
-### Explicación razonada
-
-No basta con conocer el nombre de la herramienta: hay que comprender qué problema resuelve, qué decisiones toma la persona y cómo se comprueba el resultado. En «mensajes y clones» distinguiremos siempre **entrada**, **proceso**, **resultado** y **evidencia de comprobación**. Esta secuencia permite detectar errores y justificar el trabajo sin depender de la memoria o de una respuesta automática.
-
-Cuando una solución parece funcionar, debemos preguntarnos si funciona también en casos distintos, si protege la información y si otra persona podría entenderla o continuarla. Por eso guardaremos evidencias, utilizaremos nombres claros y revisaremos antes de entregar.
-
-!!! example "Ejemplo guiado para explicar en clase"
-    Diseñamos un personaje que suma un punto al tocar un objeto. Separamos el inicio, el movimiento y la puntuación en eventos distintos y probamos inicio, colisión, victoria y reinicio.
-
-!!! warning "Error frecuente"
-    Confundir que el resultado «parece correcto» con haberlo comprobado. Una comprobación indica qué se esperaba, qué ocurrió y qué se corrigió.
-
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Mensajes y clones» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -128,18 +68,6 @@ Cuando una solución parece funcionar, debemos preguntarnos si funciona también
 
 Se reproduce el fallo, se observa el estado, se cambia una causa y se registra el resultado. Se prueban inicio, límites, victoria, derrota y reinicio.
 
-### Explicación razonada
-
-No basta con conocer el nombre de la herramienta: hay que comprender qué problema resuelve, qué decisiones toma la persona y cómo se comprueba el resultado. En «pruebas y depuración» distinguiremos siempre **entrada**, **proceso**, **resultado** y **evidencia de comprobación**. Esta secuencia permite detectar errores y justificar el trabajo sin depender de la memoria o de una respuesta automática.
-
-Cuando una solución parece funcionar, debemos preguntarnos si funciona también en casos distintos, si protege la información y si otra persona podría entenderla o continuarla. Por eso guardaremos evidencias, utilizaremos nombres claros y revisaremos antes de entregar.
-
-!!! example "Ejemplo guiado para explicar en clase"
-    El profesor presenta un caso cotidiano relacionado con «Pruebas y depuración». El grupo predice el resultado, observa la demostración y compara la predicción con la evidencia obtenida.
-
-!!! warning "Error frecuente"
-    Confundir que el resultado «parece correcto» con haberlo comprobado. Una comprobación indica qué se esperaba, qué ocurrió y qué se corrigió.
-
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Pruebas y depuración» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -150,18 +78,6 @@ Cuando una solución parece funcionar, debemos preguntarnos si funciona también
 ### Idea clave
 
 El proyecto incluye instrucciones, créditos y recursos autorizados. No publica nombres completos, imágenes privadas ni datos del centro.
-
-### Explicación razonada
-
-No basta con conocer el nombre de la herramienta: hay que comprender qué problema resuelve, qué decisiones toma la persona y cómo se comprueba el resultado. En «publicación y licencias» distinguiremos siempre **entrada**, **proceso**, **resultado** y **evidencia de comprobación**. Esta secuencia permite detectar errores y justificar el trabajo sin depender de la memoria o de una respuesta automática.
-
-Cuando una solución parece funcionar, debemos preguntarnos si funciona también en casos distintos, si protege la información y si otra persona podría entenderla o continuarla. Por eso guardaremos evidencias, utilizaremos nombres claros y revisaremos antes de entregar.
-
-!!! example "Ejemplo guiado para explicar en clase"
-    Localizamos una imagen reutilizable y anotamos autor, título, enlace y licencia. Después comprobamos que «aparece en Google» no es una licencia.
-
-!!! warning "Error frecuente"
-    Confundir que el resultado «parece correcto» con haberlo comprobado. Una comprobación indica qué se esperaba, qué ocurrió y qué se corrigió.
 
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Publicación y licencias» y con qué evidencia demostrarías que funciona correctamente?
