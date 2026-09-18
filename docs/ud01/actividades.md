@@ -15,8 +15,8 @@ Estas instrucciones están preparadas para quienes utilizan la herramienta por p
 
 Vas a descubrir qué recuerdas antes de empezar.
 
-!!! example "Ejemplo sencillo"
-    Puedes rellenar una ficha marcando «sé hacerlo», «necesito ayuda» o «todavía no». No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Documento con cinco respuestas y una marca final: **solo / con ayuda / todavía no**.
 
 ### Pasos
 
@@ -49,8 +49,8 @@ Vas a descubrir qué recuerdas antes de empezar.
 
 Vas a aprender a guardar cada archivo en su lugar.
 
-!!! example "Ejemplo sencillo"
-    Puedes crear «Informática», dentro «UD1» y después «Actividades», «Recursos» y «Entregas». No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    `INFORMATICA/UD01/ACTIVIDADES`, `RECURSOS` y `ENTREGAS`, visibles en una misma captura.
 
 ### Pasos
 
@@ -82,8 +82,8 @@ Vas a aprender a guardar cada archivo en su lugar.
 
 Vas a escribir un correo claro y respetuoso.
 
-!!! example "Ejemplo sencillo"
-    Puedes enviar una duda con asunto, saludo, pregunta concreta y despedida. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    **Asunto:** Duda ACT_UN1_3. **Mensaje:** «Buenos días. No encuentro la tarea de la UD1. ¿Podría indicarme dónde está? Gracias. Un saludo, Ana 2.ºB».
 
 ### Pasos
 
@@ -116,8 +116,8 @@ Vas a escribir un correo claro y respetuoso.
 
 Vas a decidir si una información es fiable.
 
-!!! example "Ejemplo sencillo"
-    Puedes comparar una web institucional con una página sin autor ni fecha. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Tabla con `Fuente A: organismo público, autor y fecha visibles` y `Fuente B: sin autor ni fecha`; conclusión: «La fuente A ofrece más garantías».
 
 ### Pasos
 

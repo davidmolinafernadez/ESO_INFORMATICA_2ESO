@@ -15,8 +15,8 @@ Estas instrucciones están preparadas para quienes utilizan la herramienta por p
 
 Vas a preparar una exposición breve y fácil de seguir.
 
-!!! example "Ejemplo sencillo"
-    Puedes usar una idea principal por diapositiva y no superar tres minutos. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Antes: párrafo de ocho líneas. Después: título, tres palabras clave y una imagen que apoye la explicación.
 
 ### Pasos
 
@@ -49,8 +49,8 @@ Vas a preparar una exposición breve y fácil de seguir.
 
 Vas a preparar una exposición breve y fácil de seguir.
 
-!!! example "Ejemplo sencillo"
-    Puedes usar una idea principal por diapositiva y no superar tres minutos. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    1 Portada; 2 problema; 3 dato; 4 explicación; 5 propuesta; 6 conclusión y fuentes.
 
 ### Pasos
 
@@ -83,8 +83,8 @@ Vas a preparar una exposición breve y fácil de seguir.
 
 Vas a utilizar tablas e imágenes de forma clara y legal.
 
-!!! example "Ejemplo sencillo"
-    Puedes crear una tabla de dos columnas y escribir «Fuente: autor, web y enlace» bajo la imagen. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Pie visible: `Foto: María López - Wikimedia Commons - CC BY-SA - enlace`.
 
 ### Pasos
 
@@ -117,8 +117,8 @@ Vas a utilizar tablas e imágenes de forma clara y legal.
 
 Vas a preparar una exposición breve y fácil de seguir.
 
-!!! example "Ejemplo sencillo"
-    Puedes usar una idea principal por diapositiva y no superar tres minutos. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Registro: `2 min 35 s | se lee bien | diapositiva 4 demasiado rápida | practicar esa parte`.
 
 ### Pasos
 

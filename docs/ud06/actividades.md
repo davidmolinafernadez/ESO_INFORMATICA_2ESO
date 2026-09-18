@@ -15,8 +15,8 @@ Estas instrucciones están preparadas para quienes utilizan la herramienta por p
 
 Vas a decidir si una información es fiable.
 
-!!! example "Ejemplo sencillo"
-    Puedes comparar una web institucional con una página sin autor ni fecha. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Una afirmación marcada en rojo, enlace de comprobación y corrección escrita con palabras propias.
 
 ### Pasos
 
@@ -49,8 +49,8 @@ Vas a decidir si una información es fiable.
 
 Vas a usar la IA de manera responsable y comprobar sus resultados.
 
-!!! example "Ejemplo sencillo"
-    Puedes pedir una explicación para alumnado de ESO y verificar una afirmación en una fuente. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Tabla de cuatro resultados con recuento y una conclusión que indique qué perfil se repite más.
 
 ### Pasos
 
@@ -83,8 +83,8 @@ Vas a usar la IA de manera responsable y comprobar sus resultados.
 
 Vas a usar la IA de manera responsable y comprobar sus resultados.
 
-!!! example "Ejemplo sencillo"
-    Puedes pedir una explicación para alumnado de ESO y verificar una afirmación en una fuente. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    `Usé una IA para proponer tres títulos. Elegí uno, lo reescribí y comprobé la ortografía`.
 
 ### Pasos
 
@@ -117,8 +117,8 @@ Vas a usar la IA de manera responsable y comprobar sus resultados.
 
 Vas a usar la IA de manera responsable y comprobar sus resultados.
 
-!!! example "Ejemplo sencillo"
-    Puedes pedir una explicación para alumnado de ESO y verificar una afirmación en una fuente. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Ficha: `decisión`, `beneficio`, `riesgo`, `persona afectada`, `medida de protección` y conclusión del grupo.
 
 ### Pasos
 

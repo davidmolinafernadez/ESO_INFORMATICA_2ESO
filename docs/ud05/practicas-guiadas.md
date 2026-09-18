@@ -4,6 +4,9 @@ Estas prácticas son cortas. Haz **un paso cada vez** y enseña el resultado al 
 
 ## IA2-1 · ¿Es IA o no es IA?
 
+!!! example "Ejemplo de resultado"
+    `Calculadora → NO IA: sigue operaciones fijas` y `recomendación de vídeos → IA: utiliza datos para proponer contenido`.
+
 **Objetivo:** distinguir una decisión automática de una herramienta de IA.
 
 1. Crea un documento llamado `IA2_1_ApellidoNombre`.
@@ -16,6 +19,9 @@ Estas prácticas son cortas. Haz **un paso cada vez** y enseña el resultado al 
 **Entrega:** el documento con las cuatro respuestas y las correcciones.
 
 ## IA2-2 · Una instrucción clara produce un resultado mejor
+
+!!! example "Ejemplo de resultado"
+    La segunda respuesta contiene una definición corta, el ejemplo de una videollamada y tres ideas destacadas.
 
 **Objetivo:** comprobar que una petición concreta ayuda a obtener una respuesta útil.
 
@@ -30,6 +36,9 @@ Estas prácticas son cortas. Haz **un paso cada vez** y enseña el resultado al 
 **Entrega:** `IA2_2_ApellidoNombre.pdf`.
 
 ## IA2-3 · Detective de imágenes
+
+!!! example "Ejemplo de resultado"
+    `Círculo 1: la mano tiene seis dedos`; `Círculo 2: las letras del cartel no forman palabras`.
 
 **Objetivo:** observar con atención una imagen generada y no aceptar como verdadero todo lo que parece real.
 

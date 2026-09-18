@@ -13,6 +13,12 @@ Al finalizar la explicación debes poder **definir**, **aplicar**, **comprobar**
 
 Título, encabezados, párrafos y listas expresan la jerarquía. Los estilos mantienen coherencia y permiten modificar el diseño de todo el documento.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Oficina → LibreOffice Writer
+
+    1. Escribe un título y dos apartados
+    2. Aplica Título al primero y Título 1 a los apartados desde la lista de estilos
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Estructura antes que apariencia» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -23,6 +29,12 @@ Título, encabezados, párrafos y listas expresan la jerarquía. Los estilos man
 ### Idea clave
 
 Márgenes, orientación, saltos y encabezados se configuran con herramientas específicas. Muchos espacios o líneas vacías crean documentos frágiles.
+
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Oficina → LibreOffice Writer
+
+    1. Ve a Formato → Estilo de página
+    2. Selecciona A4, orientación vertical y márgenes normales; observa la hoja
 
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Formato de página» y con qué evidencia demostrarías que funciona correctamente?
@@ -35,6 +47,12 @@ Márgenes, orientación, saltos y encabezados se configuran con herramientas esp
 
 Las imágenes conservan proporción, incluyen procedencia y aportan información. Las tablas comparan datos mediante encabezados claros.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Oficina → LibreOffice Writer
+
+    1. Ve a Tabla → Insertar tabla y crea 2 columnas y 3 filas
+    2. Después usa Insertar → Imagen y ajusta su anchura
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Imágenes y tablas» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -46,6 +64,12 @@ Las imágenes conservan proporción, incluyen procedencia y aportan información
 
 Corrector, lectura final, contraste, tamaño de letra y texto alternativo mejoran la comprensión. La revisión automática no sustituye a leer.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Oficina → LibreOffice Writer
+
+    1. Pulsa Herramientas → Ortografía
+    2. Corrige una palabra y aumenta el zoom para revisar que todo se lea
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Revisión y accesibilidad» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -56,6 +80,12 @@ Corrector, lectura final, contraste, tamaño de letra y texto alternativo mejora
 ### Idea clave
 
 Comentarios, permisos e historial permiten trabajar juntos. Cada cambio importante se revisa y el PDF final se abre antes de entregarlo.
+
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Oficina → LibreOffice Writer
+
+    1. Guarda como v01; luego Archivo → Guardar como y crea v02
+    2. Comprueba en el gestor que existen las dos versiones
 
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Colaboración y versiones» y con qué evidencia demostrarías que funciona correctamente?

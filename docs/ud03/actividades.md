@@ -15,8 +15,8 @@ Estas instrucciones están preparadas para quienes utilizan la herramienta por p
 
 Vas a practicar una destreza de la unidad.
 
-!!! example "Ejemplo sencillo"
-    Puedes hacer una versión sencilla de «completar una tabla con formatos adecuados». No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Tabla `Producto | Cantidad | Precio` con encabezados destacados, cantidades enteras y precios en formato moneda.
 
 ### Pasos
 
@@ -49,8 +49,8 @@ Vas a practicar una destreza de la unidad.
 
 Vas a realizar cálculos automáticos y comprobarlos.
 
-!!! example "Ejemplo sencillo"
-    Puedes escribir =B2*C2 y copiar la fórmula hacia abajo. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Si B2 contiene 3 y C2 contiene 2,50 €, `=B2*C2` debe mostrar **7,50 €**.
 
 ### Pasos
 
@@ -83,8 +83,8 @@ Vas a realizar cálculos automáticos y comprobarlos.
 
 Vas a encontrar fallos antes de entregar.
 
-!!! example "Ejemplo sencillo"
-    Puedes detectar una fecha escrita como texto, un precio sin formato o dos versiones diferentes. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Registro: `Fila 4 | 12 € estaba escrito como texto | se cambia a número y formato moneda`.
 
 ### Pasos
 
@@ -117,8 +117,8 @@ Vas a encontrar fallos antes de entregar.
 
 Vas a convertir datos en una imagen y explicar qué muestran.
 
-!!! example "Ejemplo sencillo"
-    Puedes usar barras para comparar categorías y escribir una conclusión con un número. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Gráfico de barras con título y ejes. Conclusión: «Cuadernos es el gasto mayor: 18 €».
 
 ### Pasos
 

@@ -13,6 +13,12 @@ Al finalizar la explicación debes poder **definir**, **aplicar**, **comprobar**
 
 La persona define el objetivo, revisa fuentes, decide y asume la responsabilidad. La IA puede ayudar a explorar o mejorar, pero no sustituye la comprobación.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Internet → Firefox → herramienta autorizada
+
+    1. Lee una respuesta y subraya una afirmación verificable
+    2. Busca una fuente y corrige la frase si no coincide
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Proceso humano de control» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -23,6 +29,12 @@ La persona define el objetivo, revisa fuentes, decide y asume la responsabilidad
 ### Idea clave
 
 Un sistema puede reproducir desigualdades presentes en datos o decisiones de diseño. Se comparan resultados y se pregunta quién podría quedar perjudicado.
+
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Internet → Firefox → herramienta autorizada
+
+    1. Observa cuatro resultados preparados por el profesor
+    2. Cuenta perfiles repetidos y escribe solo lo que realmente ves
 
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Sesgo y equidad» y con qué evidencia demostrarías que funciona correctamente?
@@ -35,6 +47,12 @@ Un sistema puede reproducir desigualdades presentes en datos o decisiones de dis
 
 No se comparten datos innecesarios. Se distingue material propio, fuente consultada y contenido generado; se respetan licencias y normas del centro.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Internet → Firefox → herramienta autorizada
+
+    1. Antes de enviar un texto, elimina nombres y datos personales
+    2. Comprueba que la versión final no identifica a nadie
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Privacidad y propiedad intelectual» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -46,6 +64,12 @@ No se comparten datos innecesarios. Se distingue material propio, fuente consult
 
 Cada afirmación verificable se contrasta con fuentes identificables. Se revisan actualidad, autoridad y coincidencia; las referencias inventadas son una señal frecuente.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Internet → Firefox → herramienta autorizada
+
+    1. Abre dos pestañas con fuentes distintas
+    2. Anota autor, fecha y coincidencias antes de aceptar el dato
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Contraste de información» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -56,6 +80,12 @@ Cada afirmación verificable se contrasta con fuentes identificables. Se revisan
 ### Idea clave
 
 Una entrega explica qué herramienta se usó, para qué, qué se modificó y cómo se verificó. Ocultar la ayuda impide valorar el aprendizaje real.
+
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Internet → Firefox → herramienta autorizada
+
+    1. En Writer añade al final “Uso de IA”
+    2. Escribe qué pediste, qué utilizaste y qué comprobaste tú
 
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Declaración de uso» y con qué evidencia demostrarías que funciona correctamente?

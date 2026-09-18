@@ -13,6 +13,12 @@ Al finalizar la explicación debes poder **definir**, **aplicar**, **comprobar**
 
 Primero se define qué debe comprender la audiencia. Una presentación apoya la explicación oral y no funciona como documento lleno de párrafos.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Oficina → LibreOffice Impress
+
+    1. Crea una diapositiva con el título “Uso responsable”
+    2. Añade debajo una sola frase dirigida a alumnado de ESO
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Mensaje y audiencia» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -23,6 +29,12 @@ Primero se define qué debe comprender la audiencia. Una presentación apoya la 
 ### Idea clave
 
 Portada, desarrollo y cierre organizan el recorrido. Cada diapositiva comunica una idea principal y enlaza con la siguiente.
+
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Oficina → LibreOffice Impress
+
+    1. Pulsa Nueva diapositiva tres veces
+    2. Cambia cada diseño y ordena inicio, explicación y cierre en el panel izquierdo
 
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Estructura» y con qué evidencia demostrarías que funciona correctamente?
@@ -35,6 +47,12 @@ Portada, desarrollo y cierre organizan el recorrido. Cada diapositiva comunica u
 
 Jerarquía, contraste, alineación y espacio facilitan la lectura. Se mantienen tipografías y colores, y se evitan animaciones sin función.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Oficina → LibreOffice Impress
+
+    1. Inserta una imagen y redúcela desde una esquina
+    2. Comprueba que no esté deformada y que el texto siga legible
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Diseño visual» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -46,6 +64,12 @@ Jerarquía, contraste, alineación y espacio facilitan la lectura. Se mantienen 
 
 Imágenes y gráficos deben ser legibles y estar acreditados. Que una imagen aparezca en un buscador no concede permiso para reutilizarla.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Oficina → LibreOffice Impress
+
+    1. Añade al final “Fuente: autor, web y enlace”
+    2. Abre el enlace en Firefox y comprueba que corresponde a la imagen
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Recursos y licencias» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -56,6 +80,12 @@ Imágenes y gráficos deben ser legibles y estar acreditados. Que una imagen apa
 ### Idea clave
 
 Ensayar permite ajustar duración, voz y transiciones. Se prueba el archivo en el equipo del aula y se conserva una copia PDF.
+
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Oficina → LibreOffice Impress
+
+    1. Pulsa F5 para presentar
+    2. Avanza con flechas, cronometra un minuto y pulsa Esc para salir
 
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Exposición y comprobación» y con qué evidencia demostrarías que funciona correctamente?

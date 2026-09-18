@@ -13,6 +13,12 @@ Al finalizar la explicación debes poder **definir**, **aplicar**, **comprobar**
 
 El sistema operativo coordina aplicaciones, archivos y dispositivos. Cada persona utiliza su cuenta, bloquea la sesión cuando se aleja y guarda el trabajo en una ubicación conocida.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Accesorios → Gestor de archivos
+
+    1. Abre tu carpeta personal y localiza Escritorio y Documentos
+    2. Crea una carpeta PRUEBA y comprueba que aparece en la lista
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «LliureX y la sesión de usuario» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -23,6 +29,12 @@ El sistema operativo coordina aplicaciones, archivos y dispositivos. Cada person
 ### Idea clave
 
 Una estructura estable permite localizar el trabajo. Los nombres deben incluir curso, unidad, actividad y versión. La extensión identifica el formato y no debe cambiarse manualmente.
+
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Accesorios → Gestor de archivos
+
+    1. En Documentos crea INFORMATICA y dentro UD01
+    2. Mira la barra de ruta: debe terminar en INFORMATICA/UD01
 
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Archivos, carpetas y rutas» y con qué evidencia demostrarías que funciona correctamente?
@@ -35,6 +47,12 @@ Una estructura estable permite localizar el trabajo. Los nombres deben incluir c
 
 La nube facilita acceso y colaboración, pero sincronizar también puede propagar borrados. Una copia recuperable se conserva separada del original.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Accesorios → Gestor de archivos
+
+    1. Crea un archivo de prueba y cópialo a una carpeta COPIA
+    2. Borra el original y comprueba que la copia todavía se abre
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Local, nube y copias» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -45,6 +63,12 @@ La nube facilita acceso y colaboración, pero sincronizar también puede propaga
 ### Idea clave
 
 El correo educativo representa al alumno en el centro. Se redacta con asunto claro, saludo, mensaje breve y despedida; no se comparten credenciales ni códigos de acceso.
+
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Accesorios → Gestor de archivos
+
+    1. Abre Firefox → correo gva.edu → Redactar
+    2. Escribe asunto, saludo, una pregunta y despedida; no lo envíes hasta revisarlo
 
 !!! example "Ejemplo guiado para explicar en clase"
     Comparamos un mensaje sin asunto con otro que incluye destinatario, asunto «Consulta UD», saludo, pregunta concreta y despedida. El alumnado identifica cuál permite responder más rápido y qué datos nunca deben enviarse.
@@ -59,6 +83,12 @@ El correo educativo representa al alumno en el centro. Se redacta con asunto cla
 ### Idea clave
 
 Autoría, fecha, finalidad, evidencias y contraste ayudan a valorar una fuente. Se guarda el enlace y se explica por qué resulta adecuada.
+
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Accesorios → Gestor de archivos
+
+    1. En Firefox busca “contraseña segura INCIBE”
+    2. Abre el resultado oficial y localiza autor u organismo, fecha y dirección web
 
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Búsqueda y contraste» y con qué evidencia demostrarías que funciona correctamente?

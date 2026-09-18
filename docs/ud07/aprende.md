@@ -13,6 +13,12 @@ Al finalizar la explicación debes poder **definir**, **aplicar**, **comprobar**
 
 Se descompone el problema, se reconocen patrones, se omiten detalles irrelevantes y se diseña un algoritmo. Los casos de prueba se preparan antes de terminar.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Programación → Scratch 3
+
+    1. En Eventos arrastra “al hacer clic en bandera” y en Movimiento “mover 10 pasos”
+    2. Pulsa bandera y observa el desplazamiento
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Pensamiento computacional» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -23,6 +29,12 @@ Se descompone el problema, se reconocen patrones, se omiten detalles irrelevante
 ### Idea clave
 
 Cada objeto tiene disfraces, propiedades y guiones. Los eventos coordinan inicio, teclado, mensajes y colisiones.
+
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Programación → Scratch 3
+
+    1. Elige un fondo, añade un objeto y programa “al tocar”
+    2. El resultado debe cambiar solo cuando ocurre el contacto
 
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Escenario, objetos y eventos» y con qué evidencia demostrarías que funciona correctamente?
@@ -35,6 +47,12 @@ Cada objeto tiene disfraces, propiedades y guiones. Los eventos coordinan inicio
 
 La secuencia fija el orden y los bucles evitan repetir bloques. Se comprueba qué cambia en cada iteración para impedir comportamientos infinitos.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Programación → Scratch 3
+
+    1. Coloca “repetir 10” alrededor de “mover 10 pasos”
+    2. Compara el resultado con diez bloques repetidos
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Secuencias y bucles» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -45,6 +63,12 @@ La secuencia fija el orden y los bucles evitan repetir bloques. Se comprueba qu�
 ### Idea clave
 
 Las condiciones eligen caminos. Las variables guardan puntuación, tiempo o estado; sus nombres deben expresar su función.
+
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Programación → Scratch 3
+
+    1. Crea variable puntos y ponla a 0 al comenzar
+    2. Suma 1 al tocar una estrella y mira el marcador
 
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Condiciones y variables» y con qué evidencia demostrarías que funciona correctamente?
@@ -57,6 +81,12 @@ Las condiciones eligen caminos. Las variables guardan puntuación, tiempo o esta
 
 Los mensajes reducen dependencias y coordinan objetos. Los clones crean copias durante la ejecución y requieren reglas claras para aparecer y desaparecer.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Programación → Scratch 3
+
+    1. Envía mensaje nuevo_nivel al llegar a 5 puntos
+    2. Otro objeto debe reaccionar al recibirlo
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Mensajes y clones» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -68,6 +98,12 @@ Los mensajes reducen dependencias y coordinan objetos. Los clones crean copias d
 
 Se reproduce el fallo, se observa el estado, se cambia una causa y se registra el resultado. Se prueban inicio, límites, victoria, derrota y reinicio.
 
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Programación → Scratch 3
+
+    1. Pulsa bandera, prueba controles, puntuación y reinicio
+    2. Anota el primer paso exacto que falla y corrígelo
+
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Pruebas y depuración» y con qué evidencia demostrarías que funciona correctamente?
 
@@ -78,6 +114,12 @@ Se reproduce el fallo, se observa el estado, se cambia una causa y se registra e
 ### Idea clave
 
 El proyecto incluye instrucciones, créditos y recursos autorizados. No publica nombres completos, imágenes privadas ni datos del centro.
+
+!!! example "Demostración paso a paso en LliureX"
+    **Abre:** Menú de aplicaciones → Programación → Scratch 3
+
+    1. Abre Archivo → Guardar en tu ordenador
+    2. Comprueba el nombre y añade créditos de imágenes o sonidos
 
 !!! tip "Pregunta al grupo"
     ¿Qué decisión tomarías al aplicar «Publicación y licencias» y con qué evidencia demostrarías que funciona correctamente?

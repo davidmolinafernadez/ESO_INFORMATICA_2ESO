@@ -15,8 +15,8 @@ Estas instrucciones están preparadas para quienes utilizan la herramienta por p
 
 Vas a ordenar un documento para que sea fácil de leer.
 
-!!! example "Ejemplo sencillo"
-    Puedes aplicar Título al título y Encabezado 1 a los apartados. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Un título con estilo **Título**, dos apartados con **Título 1** y el texto normal sin tamaños puestos manualmente.
 
 ### Pasos
 
@@ -48,8 +48,8 @@ Vas a ordenar un documento para que sea fácil de leer.
 
 Vas a utilizar tablas e imágenes de forma clara y legal.
 
-!!! example "Ejemplo sencillo"
-    Puedes crear una tabla de dos columnas y escribir «Fuente: autor, web y enlace» bajo la imagen. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Tabla `Herramienta | Uso` con tres filas y una imagen con el pie `Fuente: autor - sitio web - enlace`.
 
 ### Pasos
 
@@ -82,8 +82,8 @@ Vas a utilizar tablas e imágenes de forma clara y legal.
 
 Vas a mejorar un trabajo mediante comentarios sencillos.
 
-!!! example "Ejemplo sencillo"
-    Puedes decir qué está bien, qué no se entiende y cómo puede mejorarse. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Comentario útil: «El título se entiende. La imagen es pequeña. Auméntala y añade su fuente».
 
 ### Pasos
 
@@ -116,8 +116,8 @@ Vas a mejorar un trabajo mediante comentarios sencillos.
 
 Vas a crear una copia final que se vea igual en cualquier equipo.
 
-!!! example "Ejemplo sencillo"
-    Puedes exportar a PDF y abrirlo para revisar la primera y la última página. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Un PDF que abre correctamente, mantiene imágenes y tabla completas y muestra el nombre de la actividad en la primera página.
 
 ### Pasos
 

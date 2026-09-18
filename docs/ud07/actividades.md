@@ -15,8 +15,8 @@ Estas instrucciones están preparadas para quienes utilizan la herramienta por p
 
 Vas a crear un programa por bloques pequeño y comprobable.
 
-!!! example "Ejemplo sencillo"
-    Puedes mover un personaje con una tecla y sumar un punto al tocar una estrella. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Al pulsar la bandera aparece el personaje; con flecha derecha avanza y cambia de disfraz.
 
 ### Pasos
 
@@ -50,8 +50,8 @@ Vas a crear un programa por bloques pequeño y comprobable.
 
 Vas a crear un programa por bloques pequeño y comprobable.
 
-!!! example "Ejemplo sencillo"
-    Puedes mover un personaje con una tecla y sumar un punto al tocar una estrella. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    El jugador recoge cinco estrellas, suma un punto por cada una y aparece `Has ganado` al llegar a 5.
 
 ### Pasos
 
@@ -85,8 +85,8 @@ Vas a crear un programa por bloques pequeño y comprobable.
 
 Vas a encontrar fallos antes de entregar.
 
-!!! example "Ejemplo sencillo"
-    Puedes detectar una fecha escrita como texto, un precio sin formato o dos versiones diferentes. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Tabla: `esperaba sumar 1 | sumó 2 | había dos bloques cambiar puntos | eliminé uno | ahora suma 1`.
 
 ### Pasos
 
@@ -119,8 +119,8 @@ Vas a encontrar fallos antes de entregar.
 
 Vas a crear un programa por bloques pequeño y comprobable.
 
-!!! example "Ejemplo sencillo"
-    Puedes mover un personaje con una tecla y sumar un punto al tocar una estrella. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Pantalla inicial con título y botón; instrucciones con controles; pantalla final con autoría y recursos usados.
 
 ### Pasos
 

@@ -4,6 +4,9 @@ Abre [MakeCode Arcade](https://arcade.makecode.com/) y trabaja con bloques. Guar
 
 ## AR2-1 · El coche que se mueve
 
+!!! example "Ejemplo de resultado"
+    El coche se desplaza con las cuatro flechas, permanece dentro de la pantalla y dice `¡Vamos!` al pulsar A.
+
 1. Crea un proyecto llamado `AR2_1_ApellidoNombre`.
 2. Crea un sprite de tipo **Player** y dibuja un coche sencillo.
 3. Añade el bloque para moverlo con los botones.
@@ -16,6 +19,9 @@ Abre [MakeCode Arcade](https://arcade.makecode.com/) y trabaja con bloques. Guar
 
 ## AR2-2 · Recoger monedas
 
+!!! example "Ejemplo de resultado"
+    Al tocar la moneda, el marcador cambia de 0 a 1 y la moneda aparece en otro lugar.
+
 1. Abre una copia de AR2-1.
 2. Crea otro sprite de tipo **Food** con forma de moneda.
 3. Colócalo en una posición aleatoria.
@@ -27,6 +33,9 @@ Abre [MakeCode Arcade](https://arcade.makecode.com/) y trabaja con bloques. Guar
 **Entrega:** `AR2_2_ApellidoNombre` compartido y captura con 5 puntos.
 
 ## AR2-3 · Enemigo y final de partida
+
+!!! example "Ejemplo de resultado"
+    Si el enemigo toca al coche aparece la pantalla de derrota; si termina el tiempo sin choque aparece victoria.
 
 1. Abre una copia de AR2-2.
 2. Crea un sprite **Enemy** sencillo.

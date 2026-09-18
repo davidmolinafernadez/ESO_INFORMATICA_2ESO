@@ -15,8 +15,8 @@ Estas instrucciones están preparadas para quienes utilizan la herramienta por p
 
 Vas a usar la IA de manera responsable y comprobar sus resultados.
 
-!!! example "Ejemplo sencillo"
-    Puedes pedir una explicación para alumnado de ESO y verificar una afirmación en una fuente. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    `Calculadora: automatización`; `recomendador de vídeos: IA`; cada respuesta incluye una razón.
 
 ### Pasos
 
@@ -49,8 +49,8 @@ Vas a usar la IA de manera responsable y comprobar sus resultados.
 
 Vas a aprender a guardar cada archivo en su lugar.
 
-!!! example "Ejemplo sencillo"
-    Puedes crear «Informática», dentro «UD1» y después «Actividades», «Recursos» y «Entregas». No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Árbol: `¿llueve?` → sí: paraguas; no → `¿hace frío?` → sí: chaqueta; no: salir sin abrigo.
 
 ### Pasos
 
@@ -82,8 +82,8 @@ Vas a aprender a guardar cada archivo en su lugar.
 
 Vas a usar la IA de manera responsable y comprobar sus resultados.
 
-!!! example "Ejemplo sencillo"
-    Puedes pedir una explicación para alumnado de ESO y verificar una afirmación en una fuente. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Petición 1: `Explícame Internet`. Petición 2: añade edad, 80 palabras, ejemplo y tres ideas clave; después se comparan.
 
 ### Pasos
 
@@ -116,8 +116,8 @@ Vas a usar la IA de manera responsable y comprobar sus resultados.
 
 Vas a usar la IA de manera responsable y comprobar sus resultados.
 
-!!! example "Ejemplo sencillo"
-    Puedes pedir una explicación para alumnado de ESO y verificar una afirmación en una fuente. No copies el ejemplo: úsalo para entender el resultado.
+!!! example "Ejemplo de resultado"
+    Tabla `Afirmación | fuente consultada | confirmada / no confirmada | corrección` con tres filas.
 
 ### Pasos
 
