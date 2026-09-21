@@ -1,6 +1,6 @@
 # Actividades · Procesador de textos en la nube
 
-![Modelo visual de un documento terminado](../assets/proyecto_ud02_ejemplo.svg)
+![Cuatro ejemplos terminados de las actividades de la UD02](../assets/actividades_ud02_ejemplos.svg)
 
 Estas actividades te enseñan, paso a paso, las herramientas que utilizarás para crear la guía de la **Feria Digital Responsable**.
 

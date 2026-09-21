@@ -1,6 +1,6 @@
 # Actividades · Fundamentos de inteligencia artificial
 
-![Modelo visual para clasificar ejemplos de inteligencia artificial](../assets/proyecto_ud05_ejemplo.svg)
+![Cuatro ejemplos terminados de las actividades de la UD05](../assets/actividades_ud05_ejemplos.svg)
 
 Estas actividades preparan el rincón `¿Esto es IA?` de la **Feria Digital Responsable**.
 

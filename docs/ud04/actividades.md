@@ -1,6 +1,6 @@
 # Actividades · Presentaciones digitales
 
-![Modelo visual de una presentación de seis diapositivas](../assets/proyecto_ud04_ejemplo.svg)
+![Cuatro ejemplos terminados de las actividades de la UD04](../assets/actividades_ud04_ejemplos.svg)
 
 Estas actividades te preparan para presentar la **Feria Digital Responsable** reutilizando la guía y el presupuesto anteriores.
 

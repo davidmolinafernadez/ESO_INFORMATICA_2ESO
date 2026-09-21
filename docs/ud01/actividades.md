@@ -1,6 +1,6 @@
 # Actividades · Introducción al uso del ordenador
 
-![Modelo visual de la organización que irás construyendo](../assets/proyecto_ud01_ejemplo.svg)
+![Cuatro ejemplos terminados de las actividades de la UD01](../assets/actividades_ud01_ejemplos.svg)
 
 Estas actividades preparan el primer proyecto: crear y mantener ordenada la carpeta de la **Feria Digital Responsable**.
 

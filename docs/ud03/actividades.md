@@ -1,6 +1,6 @@
 # Actividades · Hojas de cálculo
 
-![Modelo visual de una hoja de cálculo terminada](../assets/proyecto_ud03_ejemplo.svg)
+![Cuatro ejemplos terminados de las actividades de la UD03](../assets/actividades_ud03_ejemplos.svg)
 
 Estas actividades preparan el presupuesto de la **Feria Digital Responsable**. Compara tus tablas, fórmulas y gráficos con este modelo.
 

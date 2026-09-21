@@ -1,6 +1,6 @@
 # Actividades · Programación por bloques con Scratch
 
-![Modelo visual del videojuego final](../assets/proyecto_ud07_ejemplo.svg)
+![Cuatro ejemplos terminados de las actividades de la UD07](../assets/actividades_ud07_ejemplos.svg)
 
 Estas actividades construyen por partes el videojuego que presentarás al final de la **Feria Digital Responsable**.
 
