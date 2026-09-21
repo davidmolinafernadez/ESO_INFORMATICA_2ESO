@@ -1,5 +1,9 @@
 # Actividades · Procesador de textos en la nube
 
+![Modelo visual de un documento terminado](../assets/proyecto_ud02_ejemplo.svg)
+
+Estas actividades te enseñan, paso a paso, las herramientas que utilizarás para crear la guía de la **Feria Digital Responsable**.
+
 Estas instrucciones están preparadas para quienes utilizan la herramienta por primera vez. Lee **un paso cada vez** y márcalo cuando lo termines.
 
 | Código en Aules | Actividad |

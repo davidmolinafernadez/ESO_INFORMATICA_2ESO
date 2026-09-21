@@ -1,5 +1,9 @@
 # Actividades · Presentaciones digitales
 
+![Modelo visual de una presentación de seis diapositivas](../assets/proyecto_ud04_ejemplo.svg)
+
+Estas actividades te preparan para presentar la **Feria Digital Responsable** reutilizando la guía y el presupuesto anteriores.
+
 Estas instrucciones están preparadas para quienes utilizan la herramienta por primera vez. Lee **un paso cada vez** y márcalo cuando lo termines.
 
 | Código en Aules | Actividad |

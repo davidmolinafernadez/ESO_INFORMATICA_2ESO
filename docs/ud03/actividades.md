@@ -1,5 +1,9 @@
 # Actividades · Hojas de cálculo
 
+![Modelo visual de una hoja de cálculo terminada](../assets/proyecto_ud03_ejemplo.svg)
+
+Estas actividades preparan el presupuesto de la **Feria Digital Responsable**. Compara tus tablas, fórmulas y gráficos con este modelo.
+
 Estas instrucciones están preparadas para quienes utilizan la herramienta por primera vez. Lee **un paso cada vez** y márcalo cuando lo termines.
 
 | Código en Aules | Actividad |

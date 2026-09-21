@@ -1,5 +1,9 @@
 # Actividades · Aplicaciones y ética de la IA
 
+![Modelo visual de un decálogo](../assets/proyecto_ud06_ejemplo.svg)
+
+Estas actividades te ayudarán a redactar las normas del rincón de IA de la **Feria Digital Responsable**.
+
 Estas instrucciones están preparadas para quienes utilizan la herramienta por primera vez. Lee **un paso cada vez** y márcalo cuando lo termines.
 
 | Código en Aules | Actividad |

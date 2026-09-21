@@ -1,5 +1,9 @@
 # Actividades · Fundamentos de inteligencia artificial
 
+![Modelo visual para clasificar ejemplos de inteligencia artificial](../assets/proyecto_ud05_ejemplo.svg)
+
+Estas actividades preparan el rincón `¿Esto es IA?` de la **Feria Digital Responsable**.
+
 Estas instrucciones están preparadas para quienes utilizan la herramienta por primera vez. Lee **un paso cada vez** y márcalo cuando lo termines.
 
 | Código en Aules | Actividad |

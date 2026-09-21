@@ -1,5 +1,9 @@
 # Actividades · Introducción al uso del ordenador
 
+![Modelo visual de la organización que irás construyendo](../assets/proyecto_ud01_ejemplo.svg)
+
+Estas actividades preparan el primer proyecto: crear y mantener ordenada la carpeta de la **Feria Digital Responsable**.
+
 Estas instrucciones están preparadas para quienes utilizan la herramienta por primera vez. Lee **un paso cada vez** y márcalo cuando lo termines.
 
 | Código en Aules | Actividad |
