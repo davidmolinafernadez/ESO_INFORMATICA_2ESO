@@ -1,55 +1,37 @@
 # Prácticas guiadas de inteligencia artificial
 
-Estas prácticas son cortas. Haz **un paso cada vez** y enseña el resultado al profesor antes de continuar. Utiliza solamente la herramienta autorizada en clase y no introduzcas datos personales.
+**Herramientas:** LibreOffice Writer para respuestas; LibreOffice Draw para marcar imágenes; Firefox para los materiales de Aules. No es necesario abrir una cuenta de IA.
 
 ## IA2-1 · ¿Es IA o no es IA?
 
-!!! example "Ejemplo de resultado"
-    `Calculadora → NO IA: sigue operaciones fijas` y `recomendación de vídeos → IA: utiliza datos para proponer contenido`.
+1. Abre **Menú de aplicaciones → Oficina → LibreOffice Writer → Archivo → Nuevo → Documento de texto**. Escribe `¿Es IA o no es IA?`.
+2. Pulsa **Tabla → Insertar tabla** y crea **3 columnas y 5 filas**. Encabezados: `Caso`, `IA o no IA` y `Explicación`.
+3. Escribe un caso por fila: `calculadora`, `recomendación de vídeos mediante un modelo entrenado`, `semáforo con temporizador fijo` y `reconocimiento de voz entrenado con grabaciones`.
+4. Clasifica cada caso y justifica en una frase si aplica reglas fijas o utiliza un modelo entrenado con datos. No necesitas consultar una IA.
+5. Escucha la explicación de clase y corrige las respuestas necesarias. Selecciona lo corregido y cambia el **Color de fuente** desde la barra superior.
+6. Usa **Archivo → Guardar como** y guarda `IA2_1_ApellidoNombre.odt` en `Documentos/FERIA_DIGITAL_TUNOMBRE/UD05_IA/ACTIVIDADES`. Después **Archivo → Exportar como → Exportar como PDF → Exportar** y guarda `IA2_1_ApellidoNombre.pdf`.
 
-**Objetivo:** distinguir una decisión automática de una herramienta de IA.
-
-1. Crea un documento llamado `IA2_1_ApellidoNombre`.
-2. Copia estos cuatro casos: calculadora, recomendación de vídeos, semáforo con temporizador y reconocimiento de voz.
-3. Escribe junto a cada caso `IA` o `NO IA`.
-4. Añade una frase explicando tu decisión.
-5. Compara tus respuestas con las explicaciones del profesor.
-6. Corrige en otro color lo que estuviera mal.
-
-**Entrega:** el documento con las cuatro respuestas y las correcciones.
+**Entrega:** IA2_1_ApellidoNombre.odt e IA2_1_ApellidoNombre.pdf. En Firefox abre **Aules → Informática → UD05 → práctica IA2-1** y adjunta esos archivos en **Agregar entrega → Guardar cambios**; pulsa **Enviar tarea** si aparece. Si el profesor la realiza solo en clase y no hay tarea abierta, enséñale los archivos guardados.
 
 ## IA2-2 · Una instrucción clara produce un resultado mejor
 
-!!! example "Ejemplo de resultado"
-    La segunda respuesta contiene una definición corta, el ejemplo de una videollamada y tres ideas destacadas.
+1. Abre **Menú de aplicaciones → Oficina → LibreOffice Writer** y crea un documento nuevo. Escribe los títulos `Intento 1`, `Intento 2` y `Comparación`.
+2. En Intento 1 escribe la petición `Explícame Internet`. En Intento 2 escribe `Explica qué es Internet para un alumno de 2.º ESO. Usa un máximo de 80 palabras, un ejemplo cotidiano y tres ideas clave`.
+3. Abre **Firefox → Aules → Informática → UD05 → ACT_UN5_3** y copia las dos respuestas facilitadas en clase. Si no hay adjuntos, usa las dos muestras incluidas en el enunciado de esa actividad. Indica si analizas respuestas de una herramienta o muestras didácticas; no necesitas crear una cuenta de IA.
+4. Pega cada respuesta bajo su petición. En Comparación escribe cuatro criterios: `Público`, `Longitud`, `Ejemplo` e `Ideas clave`. Explica en cada uno qué cambia entre ambas respuestas.
+5. Selecciona solo la segunda respuesta y pulsa **Herramientas → Contador de palabras**. Anota si respeta el máximo de 80 palabras.
+6. Compara la definición con los apuntes y escribe qué respuesta entiendes mejor y por qué. Guarda `IA2_2_ApellidoNombre.odt` con **Archivo → Guardar como** y expórtalo a `IA2_2_ApellidoNombre.pdf` con **Archivo → Exportar como → Exportar como PDF → Exportar**.
 
-**Objetivo:** comprobar que una petición concreta ayuda a obtener una respuesta útil.
-
-1. Escribe en la herramienta autorizada: `Explícame Internet`.
-2. Copia la respuesta en un documento bajo el título **Intento 1**.
-3. Escribe ahora: `Explica qué es Internet para un alumno de 2.º ESO. Usa 80 palabras, un ejemplo cotidiano y tres ideas clave`.
-4. Copia la nueva respuesta bajo el título **Intento 2**.
-5. Marca cuál se entiende mejor.
-6. Escribe dos diferencias que observes.
-7. Comprueba con los apuntes si las tres ideas son correctas.
-
-**Entrega:** `IA2_2_ApellidoNombre.pdf`.
+**Entrega:** IA2_2_ApellidoNombre.odt e IA2_2_ApellidoNombre.pdf. En Firefox abre **Aules → Informática → UD05 → práctica IA2-2** y adjunta esos archivos en **Agregar entrega → Guardar cambios**; pulsa **Enviar tarea** si aparece. Si el profesor la realiza solo en clase y no hay tarea abierta, enséñale los archivos guardados.
 
 ## IA2-3 · Detective de imágenes
 
-!!! example "Ejemplo de resultado"
-    `Círculo 1: la mano tiene seis dedos`; `Círculo 2: las letras del cartel no forman palabras`.
+1. Abre **Firefox → Aules → Informática → UD05** y descarga la imagen de práctica de **IA2-3** que facilite el profesor. Guarda el archivo en `Documentos/FERIA_DIGITAL_TUNOMBRE/UD05_IA/ACTIVIDADES`. El profesor debe proporcionar esta imagen antes de comenzar.
+2. Abre **Menú de aplicaciones → Oficina → LibreOffice Draw**. Pulsa **Insertar → Imagen**, busca la descarga y ábrela. Redúcela desde una esquina para dejar espacio a las explicaciones.
+3. Amplía la vista con el control de zoom inferior y observa manos, letras, sombras, reflejos y objetos. Busca cuatro detalles para analizar; si no encuentras cuatro, explica qué zonas has revisado sin inventar fallos.
+4. Usa **Insertar → Forma → Formas básicas → Elipse** para rodear un detalle. Con la elipse seleccionada elige **Área: Ninguno** y línea roja en la barra de propiedades, para que no tape la imagen.
+5. Repite los círculos y añade números con **Insertar → Cuadro de texto**. Debajo escribe una explicación para cada número. Si una zona no permite concluir nada, indícalo.
+6. Añade `¿La compartiría como fotografía real?` y justifica tu respuesta. Los detalles visuales aislados no demuestran que una imagen sea de IA: hace falta revisar su procedencia.
+7. Guarda `IA2_3_ApellidoNombre.odg` con **Archivo → Guardar como**. Exporta a `IA2_3_ApellidoNombre.pdf` mediante **Archivo → Exportar como → Exportar como PDF → Exportar**. Abre el PDF y comprueba círculos, números y respuestas.
 
-**Objetivo:** observar con atención una imagen generada y no aceptar como verdadero todo lo que parece real.
-
-1. Abre la imagen que proyecte o facilite el profesor.
-2. Amplíala y busca manos, texto, sombras, reflejos y objetos deformados.
-3. Señala con círculos cuatro detalles sospechosos.
-4. Numera los círculos del 1 al 4.
-5. Escribe una frase que explique cada señal.
-6. Responde: `¿Compartirías esta imagen como si fuera una fotografía real? ¿Por qué?`.
-
-**Entrega:** la imagen marcada y las cinco respuestas en `IA2_3_ApellidoNombre.pdf`.
-
-!!! warning "Regla de clase"
-    No se suben fotografías personales, nombres completos, documentos del centro ni conversaciones privadas.
+**Entrega:** IA2_3_ApellidoNombre.odg e IA2_3_ApellidoNombre.pdf. En Firefox abre **Aules → Informática → UD05 → práctica IA2-3** y adjunta esos archivos en **Agregar entrega → Guardar cambios**; pulsa **Enviar tarea** si aparece. Si el profesor la realiza solo en clase y no hay tarea abierta, enséñale los archivos guardados.
